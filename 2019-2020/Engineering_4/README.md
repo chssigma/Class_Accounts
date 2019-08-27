@@ -4,4 +4,4 @@ Add your name (First name, last initial), github username (with a link), and a f
 
 Name | Username | Fun Fact
 --- | --- | ---
-Doctor Shields | [DoctorShields](https://github.com/DoctorShields) | I was born in El Paso, TX
+Matt S. | [DoctorShields](https://github.com/DoctorShields) | I was born in El Paso, TX
