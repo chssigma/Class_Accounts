@@ -5,3 +5,6 @@ Add your name (First name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I was born in El Paso, TX
+Max L. | [mleblan67](https://github.com/mleblan67) | I play piano
+Elijah T. | [etolton49](https://github.com/etolton49) | I like camping
+
