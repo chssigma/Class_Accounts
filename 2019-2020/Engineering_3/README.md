@@ -7,3 +7,4 @@ Name | Username | Fun Fact
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I was born in El Paso, TX
 Cole L. | [clyman88](https://github.com/clyman88) | I am in the CHS Marching Band
 Seanan S. | [sshanks49](https://github.com/sshanks49) | I have a black belt in karate
+Imogen A. | [iarmstr81](https://github.com/iarmstr81) | I play soccer.
