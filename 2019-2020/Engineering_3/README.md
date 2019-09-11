@@ -8,3 +8,6 @@ Matt S. | [DoctorShields](https://github.com/DoctorShields) | I was born in El P
 Cole L. | [clyman88](https://github.com/clyman88) | I am in the CHS Marching Band
 Seanan S. | [sshanks49](https://github.com/sshanks49) | I have a black belt in karate
 Imogen A. | [iarmstr81](https://github.com/iarmstr81) | I play soccer.
+Owen M. | [omckenn37](https://github.com/omckenn37) | I enjoy the activity of playing soccer.
+
+
