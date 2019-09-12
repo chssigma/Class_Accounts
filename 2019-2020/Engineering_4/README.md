@@ -1,6 +1,6 @@
 # Engineering 4
 
-Add your name (First name, last initial), github username (with a link), and a fun fact about you into the table below.
+Add your name (Paxton, G), pgunn78 (https://github.com/pgunn78), I enjoy a good bagel.
 
 Name | Username | Fun Fact
 --- | --- | ---
