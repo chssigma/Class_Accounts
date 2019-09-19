@@ -12,3 +12,6 @@ Graham L. | [glenert41](https://github.com/glenert41) | Spain is smaller than al
 Owen M. | [omckenn37](https://github.com/omckenn37) | I enjoy the activity of playing soccer.
 Camden B. | [CamdenBaucom](https://github.com/CamdenBaucom) | I was born in Durham, North Carolina
 Tim W. | [tweissm35](https://github.com/tweissm35) | I am on the CHS cross country team
+Lukas H. | [lhange42](https://github.com/lhange42) | I am half German
+
+
