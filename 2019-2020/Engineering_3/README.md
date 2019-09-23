@@ -16,3 +16,4 @@ Miles K. | [mkershn16](https://github.com/mkershn16) | I can run fast. Very fast
 Abby P. | [Apaquet37](https://github.com/Apaquet37) | I play field hockey.
 Lukas H. | [lhange42](https://github.com/lhange42) | I am half German
 Caden T. | [ctucker02](https://github.com/ctucker02) | I like to play soccer.
+Reece M. | [rmckee75](https://github.com/rmckee75)| I love trying new foods from different cultures, and running
