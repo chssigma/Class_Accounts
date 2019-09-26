@@ -12,3 +12,5 @@ Rachel N. | [rneygri80](https://github.com/rneygri80) | My favorite food is past
 Aden Y. | [AsouleY](https://github.com/AsouleY) | Im a member of the SolidWorks Customer Experience Improvement Program
 Ben L. | [benlepsch](https://github.com/benlepsch) | My favorite programming language is HTML
 Claire M. | [cmunro97](https://github.com/cmunro97) | I like mac and cheese
+Gabby W. | [jorgeraspberrypi](github.com/jorgeraspberrypi) | My favorite animal is a pig
+Adela C. |[adelacervantes](https://github.com/adelacervantes)| proudly plant fueled as well

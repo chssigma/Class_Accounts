@@ -17,3 +17,5 @@ Abby P. | [Apaquet37](https://github.com/Apaquet37) | I play field hockey.
 Lukas H. | [lhange42](https://github.com/lhange42) | I am half German
 Caden T. | [ctucker02](https://github.com/ctucker02) | I like to play soccer.
 Reece M. | [rmckee75](https://github.com/rmckee75)| I love trying new foods from different cultures, and running
+Elisabeth S. |[escharf72](https://github.com/escharf72) | I was born in New York City. 
+Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean
