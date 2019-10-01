@@ -20,9 +20,11 @@ Reece M. | [rmckee75](https://github.com/rmckee75)| I love trying new foods from
 Elisabeth S. |[escharf72](https://github.com/escharf72) | I was born in New York City.
 Olivia P. | [opember44](https://github.com/opember44) | I play soccer.
 Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean
-Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean
 Corin S. | [cstours08](https://github.com/cstours08)| I'm a primarily French, Italian, and German
 Elisabeth S. |[escharf72](https://github.com/escharf72) | I was born in New York City. 
 Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean
 Meg G. | [mgist56](https://github.com/mgist56) | I play the flute.
 Zoe D. | [zdeguzm53](https://github.com/zdeguzm53) | I'm under 5 ft tall
+Jackson F. | [jfoster18](https://github.com/jfoster18) | I play hockey 
+River M. | [rmalia13](https://github.com/rmalia13) | I like pie.
+Meg G. | [mgist56](https://github.com/mgist56) | I play the flute.
