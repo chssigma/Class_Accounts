@@ -23,5 +23,6 @@ Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean
 Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean
 Corin S. | [cstours08](https://github.com/cstours08)| I'm a primarily French, Italian, and German
 Elisabeth S. |[escharf72](https://github.com/escharf72) | I was born in New York City. 
-Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean
+Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean (why are you here 3 times)
 Meg G. | [mgist56](https://github.com/mgist56) | I play the flute.
+Luuk S. | [lspence40](https://github.com/lspence40) | I am definitley a real human being and not a sentient virus.
