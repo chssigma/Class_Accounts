@@ -1,5 +1,7 @@
 # Engineering 4
 
+Add your name (First name, last initial), github username (with a link), and a fun fact about you into the table below.
+
 Name | Username | Fun Fact
 --- | --- | ---
 Cade Y. | [cyoung70](https://github.com/cyoung70) | I was not born deaf, but lost my hearing over time
