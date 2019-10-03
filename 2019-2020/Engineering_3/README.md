@@ -10,6 +10,7 @@ Seanan S. | [sshanks49](https://github.com/sshanks49) | I have a black belt in k
 Imogen A. | [iarmstr81](https://github.com/iarmstr81) | I play soccer.
 Graham L. | [glenert41](https://github.com/glenert41) | Spain is smaller than all of Africa combined
 Owen M. | [omckenn37](https://github.com/omckenn37) | I enjoy the activity of playing soccer.
+Jude F. | [jfairch81](https://github.com/jfairch81) | I like to play basketball with my friends
 Camden B. | [CamdenBaucom](https://github.com/CamdenBaucom) | I was born in Durham, North Carolina
 Tim W. | [tweissm35](https://github.com/tweissm35) | I am on the CHS cross country team
 Miles K. | [mkershn16](https://github.com/mkershn16) | I can run fast. Very fast.
