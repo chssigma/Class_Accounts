@@ -1,3 +1,4 @@
+
 # Engineering 3
 
 Add your name (First name, last initial), github username (with a link), and a fun fact about you into the table below.
@@ -32,4 +33,5 @@ Zoe D. | [zdeguzm53](https://github.com/zdeguzm53) | I'm under 5 ft tall
 Jackson F. | [jfoster18](https://github.com/jfoster18) | I play hockey 
 River M. | [rmalia13](https://github.com/rmalia13) | I like pie.
 Meg G. | [mgist56](https://github.com/mgist56) | I play the flute.
+Harry D. | [hdreese56](https://github.com/hdreese56) | Latin isn't a dead language.
 Anthony S. | [ashipp98](https://github.com/ashipp98) | I like Call Of Duty
