@@ -35,4 +35,4 @@ Jordan H. | [JordanHiggins777](https://github.com/JordanHiggins777) | Yeet
 Daeshon R. | [drobins52](https://github.com/drobins52) | I play basketball.
 Harry D. | [hdreese56](https://github.com/hdreese56) | Latin isn't a dead language.
 Anthony S. | [ashipp98](https://github.com/ashipp98) | I like Call Of Duty
-Vann W. | [vwellmo57](http://github.com/ashipp98 | Latin is a dead language
+Vann W. | [vwellmo57](http://github.com/vwellmo57) | Latin is a dead language
