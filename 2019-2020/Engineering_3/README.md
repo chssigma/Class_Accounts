@@ -36,3 +36,4 @@ Meg G. | [mgist56](https://github.com/mgist56) | I play the flute.
 Daeshon R. | [drobins52](https://github.com/drobins52) | I play basketball.
 Harry D. | [hdreese56](https://github.com/hdreese56) | Latin isn't a dead language.
 Anthony S. | [ashipp98](https://github.com/ashipp98) | I like Call Of Duty
+Seth C. | [scollie86](https://github.com/scollie86) | I was born in Clemson
