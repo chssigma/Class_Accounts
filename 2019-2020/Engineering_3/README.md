@@ -35,3 +35,4 @@ Jordan H. | [JordanHiggins777](https://github.com/JordanHiggins777) | Yeet
 Daeshon R. | [drobins52](https://github.com/drobins52) | I play basketball.
 Harry D. | [hdreese56](https://github.com/hdreese56) | Latin isn't a dead language.
 Anthony S. | [ashipp98](https://github.com/ashipp98) | I like Call Of Duty
+Lucas M. | {lmiller87](https://github.com/lmiller87) | I play soccer
