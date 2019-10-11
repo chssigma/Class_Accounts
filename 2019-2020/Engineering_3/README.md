@@ -36,6 +36,7 @@ Jordan H. | [JordanHiggins777](https://github.com/JordanHiggins777) | Yeet
 Daeshon R. | [drobins52](https://github.com/drobins52) | I play basketball.
 Harry D. | [hdreese56](https://github.com/hdreese56) | Latin isn't a dead language.
 Anthony S. | [ashipp98](https://github.com/ashipp98) | I like Call Of Duty
+Lucas M. | {lmiller87](https://github.com/lmiller87) | I play soccer
 Vann W. | [vwellmo57](http://github.com/vwellmo57) | Latin is a dead language
 Harrison G | [hgreenh21](https://github.com/hgreenh21) | I like the ravens!
 Katherine M.| [kmcgrat28](https://github.com/kmcgrat28)| I'm really tall, but I don't wear men's size 13 Nikes.
