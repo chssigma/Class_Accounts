@@ -41,7 +41,7 @@ Anthony S. | [ashipp98](https://github.com/ashipp98) | I like Call Of Duty
 Lucas M. | [lmiller87](https://github.com/lmiller87) | I play soccer
 Nico S. | [nsun94](https://github.com/nsun94) | I like to fish 
 Seth C. | [scollie86](https://github.com/scollie86) | I was born in Clemson
-Lucas M. | {lmiller87](https://github.com/lmiller87) | I play soccer
+Lucas M. | [lmiller87](https://github.com/lmiller87) | I play soccer
 Vann W. | [vwellmo57](http://github.com/vwellmo57) | Latin is a dead language
 Harrison G | [hgreenh21](https://github.com/hgreenh21) | I like the ravens!
 Katherine M.| [kmcgrat28](https://github.com/kmcgrat28)| I'm really tall, but I don't wear men's size 13 Nikes.
