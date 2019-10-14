@@ -1,6 +1,6 @@
 # Engineering 4
 
-Add your name (Paxton, G), pgunn78 (https://github.com/pgunn78), I enjoy a good bagel.
+Add your name (First name, last initial), github username (with a link), and a fun fact about you into the table below.
 
 Name | Username | Fun Fact
 --- | --- | ---
@@ -15,4 +15,3 @@ David W. | [david-wiles6](https://github.com/david-wiles6) | I like engineering
 Aidan M. | [ADaMiller14](https://github.com/ADaMiller14) | I am in a cult: Marching Band
 Bethany B. | [bkbazemore](https://github.com/bkbazemore) | I play lacrosse and volleyball.
 Jamez L. | [jlynch56](https://github.com/jlynch56) | I like programming.
-
