@@ -4,13 +4,15 @@
 
 Add your name (First name, last initial), github username (with a link), and a fun fact about you into the table below.
 
+## Teachers
+
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I was born in El Paso, TX
 Karl H. | [Helmstk1](https://github.com/Helmstk1) | I've had a snowball fight in Honolulu, HI.
 
 
-Period 1
+## Period 1
 
 Name | Username | Fun Fact
 --- | --- | ---
@@ -33,9 +35,7 @@ Corin S. | [cstours08](https://github.com/cstours08)| I'm a primarily French, It
 Elisabeth S. |[escharf72](https://github.com/escharf72) | I was born in New York City. 
 Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean
 
-
-
-Period 3
+## Period 3
 
 Name | Username | Fun Fact
 --- | --- | ---
@@ -49,9 +49,7 @@ Rowan M. | [rmiller85](https://github.com/rmiller85) | The air-speed velocity of
 Aiden L. | [alewand78](https://github.com/alewand78) | I play lacrosse.
 Ghislain V.| [gventre04](https://github.com/gventre04)| Won states with the CHS soccer team
 
-
-
-Period 4
+## Period 4
 
 Name | Username | Fun Fact
 --- | --- | ---
