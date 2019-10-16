@@ -1,6 +1,6 @@
 # Engineering 2
 
-Add your name (First name, last initial), github username (with a link), and a fun fact about you into your class's table below.
+Add your name (First name, last initial), github username (with a link), and a fun fact about you into _the correct_ table below.
 
 ## Teachers
 
