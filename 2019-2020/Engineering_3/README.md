@@ -7,6 +7,13 @@ Add your name (First name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I was born in El Paso, TX
+Karl H. | [Helmstk1](https://github.com/Helmstk1) | I've had a snowball fight in Honolulu, HI.
+
+
+Period 1
+
+Name | Username | Fun Fact
+--- | --- | ---
 Cole L. | [clyman88](https://github.com/clyman88) | I am in the CHS Marching Band
 Seanan S. | [sshanks49](https://github.com/sshanks49) | I have a black belt in karate
 Imogen A. | [iarmstr81](https://github.com/iarmstr81) | I play soccer.
@@ -25,6 +32,29 @@ Olivia P. | [opember44](https://github.com/opember44) | I play soccer.
 Corin S. | [cstours08](https://github.com/cstours08)| I'm a primarily French, Italian, and German
 Elisabeth S. |[escharf72](https://github.com/escharf72) | I was born in New York City. 
 Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean
+
+
+
+Period 3
+
+Name | Username | Fun Fact
+--- | --- | ---
+Lucas M. | [lmiller87](https://github.com/lmiller87) | I play soccer
+Seth C. | [scollie86](https://github.com/scollie86) | I was born in Clemson
+Lucas M. | [lmiller87](https://github.com/lmiller87) | I play soccer
+Vann W. | [vwellmo57](http://github.com/vwellmo57) | Latin is a dead language
+Harrison G | [hgreenh21](https://github.com/hgreenh21) | I like the ravens!
+Asha G. | [agupta88ccs](https://github.com/agupta88) | I run track and dance. 
+Rowan M. | [rmiller85](https://github.com/rmiller85) | The air-speed velocity of an unladen swallow depends on the type of swallow.
+Aiden L. | [alewand78](https://github.com/alewand78) | I play lacrosse.
+Ghislain V.| [gventre04](https://github.com/gventre04)| Won states with the CHS soccer team
+
+
+
+Period 4
+
+Name | Username | Fun Fact
+--- | --- | ---
 Grady G. | [ggilmor66](https://https://github.com/ggilmor66) | I enjoying playing lacrosse.
 Meg G. | [mgist56](https://github.com/mgist56) | I play the flute.
 Luuk S. | [lspence40](https://github.com/lspence40) | I am definitley a real human being and not a sentient virus.
@@ -38,14 +68,5 @@ Jordan H. | [JordanHiggins777](https://github.com/JordanHiggins777) | Yeet
 Daeshon R. | [drobins52](https://github.com/drobins52) | I play basketball.
 Harry D. | [hdreese56](https://github.com/hdreese56) | Latin isn't a dead language.
 Anthony S. | [ashipp98](https://github.com/ashipp98) | I like Call Of Duty
-Lucas M. | [lmiller87](https://github.com/lmiller87) | I play soccer
 Nico S. | [nsun94](https://github.com/nsun94) | I like to fish 
-Seth C. | [scollie86](https://github.com/scollie86) | I was born in Clemson
-Lucas M. | [lmiller87](https://github.com/lmiller87) | I play soccer
-Vann W. | [vwellmo57](http://github.com/vwellmo57) | Latin is a dead language
-Harrison G | [hgreenh21](https://github.com/hgreenh21) | I like the ravens!
 Katherine M.| [kmcgrat28](https://github.com/kmcgrat28)| I'm really tall, but I don't wear men's size 13 Nikes.
-Asha G. | [agupta88ccs](https://github.com/agupta88) | I run track and dance. 
-Rowan M. | [rmiller85](https://github.com/rmiller85) | The air-speed velocity of an unladen swallow depends on the type of swallow.
-Aiden L. | [alewand78](https://github.com/alewand78) | I play lacrosse.
-Ghislain V.| [gventre04](https://github.com/gventre04)| Won states with the CHS soccer team
