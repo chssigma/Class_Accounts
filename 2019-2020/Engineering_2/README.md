@@ -25,9 +25,10 @@ Name | Username | Fun Fact
 --- | --- | ---
 Luke A. | [AtticusRoberts](https://github.com/AtticusRoberts) | I work for a tech startup
 Alden D. | [adent11](https://github.com/adent11) | Lorem Ipsum
-
+Lilah H. | [lhassel](https://github.com/lhassel) | I am on a swim team
 ## Period 7
 
 Name | Username | Fun Fact
 --- | --- | ---
 Mekhi H. | [mhernan80](https://github.com/mhernan80) | Did you know that rabbits sleep with their eyes open
+
