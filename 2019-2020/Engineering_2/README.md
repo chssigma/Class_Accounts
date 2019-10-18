@@ -21,15 +21,17 @@ Name | Username | Fun Fact
 
 ## Period 6
 
-Name | Username | Fun Fact --- | --- | --- Luke A. | 
-[AtticusRoberts](https://github.com/AtticusRoberts) | I work for a tech 
-startup Alden D. | [adent11](https://github.com/adent11) | Lorem Ipsum 
-Lilah H. | [lhassel](https://github.com/lhassel) | I am on a swim team 
+Name | Username | Fun Fact
+--- | --- | ---
+Luke A. | [AtticusRoberts](https://github.com/AtticusRoberts) | I work for a tech startup
+Alden D. | [adent11](https://github.com/adent11) | Lorem Ipsum
+Julia B. | [jbailey24](https://github.com/jbailey24) | My favorite season is fall
+Lilah H. | [lhassel](https://github.com/lhassel) | I am on a swim team
+Mekhi H. | [mhernan80](https://github.com/mhernan80) | Did you know that rabbits sleep with their eyes open
 Henry C. | [hcoyle91](https://github.com/hcoyle91) | I have REd hair
 
 ## Period 7
 
 Name | Username | Fun Fact
 --- | --- | ---
-Mekhi H. | [mhernan80](https://github.com/mhernan80) | Did you know that rabbits sleep with their eyes open
 
