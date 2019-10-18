@@ -5,4 +5,4 @@ Add your name (First name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I was born in El Paso, TX
-vaughnw128) | Professional highschooler, amateur chef
+Vaughn W. | [vaughnw128](https://github.com/vaughnw128) | Professional highschooler, amateur chef
