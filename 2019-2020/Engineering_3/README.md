@@ -29,8 +29,6 @@ Reece M. | [rmckee75](https://github.com/rmckee75)| I love trying new foods from
 Olivia P. | [opember44](https://github.com/opember44) | I play soccer.
 Luuk S. | [lspence40](https://github.com/lspence40) | I am definitley a real human being and not a sentient virus.
 Anthony S. | [ashipp98](https://github.com/ashipp98) | I like Call Of Duty
-Nico S. | [nsun94](https://github.com/nsun94) | I like to fish 
-Katherine M.| [kmcgrat28](https://github.com/kmcgrat28)| I'm really tall, but I don't wear men's size 13 Nikes.
 
 ## Period 3
 
@@ -64,3 +62,5 @@ Elisabeth S. |[escharf72](https://github.com/escharf72) | I was born in New York
 Corin S. | [cstours08](https://github.com/cstours08)| I'm a primarily French, Italian, and German
 Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean
 Kaymin H. | [khester35](https://github.com/khester35) | I play violin. 
+Nico S. | [nsun94](https://github.com/nsun94) | I like to fish 
+Katherine M.| [kmcgrat28](https://github.com/kmcgrat28)| I'm really tall, but I don't wear men's size 13 Nikes.
