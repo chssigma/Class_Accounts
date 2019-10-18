@@ -63,3 +63,4 @@ River M. | [rmalia13](https://github.com/rmalia13) | I like pie.
 Elisabeth S. |[escharf72](https://github.com/escharf72) | I was born in New York City.
 Corin S. | [cstours08](https://github.com/cstours08)| I'm a primarily French, Italian, and German
 Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean
+Kaymin H. | [khester35](https://github.com/khester35) | I play violin. 
