@@ -2,6 +2,7 @@
 
 # Engineering 3
 
+Add your name (First name, last initial), github username (with a link), and a fun fact about you into _the correct_ table below.
 
 ## Teachers
 
@@ -42,7 +43,6 @@ Asha G. | [agupta88ccs](https://github.com/agupta88) | I run track and dance.
 Rowan M. | [rmiller85](https://github.com/rmiller85) | The air-speed velocity of an unladen swallow depends on the type of swallow.
 Aiden L. | [alewand78](https://github.com/alewand78) | I play lacrosse.
 Ghislain V.| [gventre04](https://github.com/gventre04)| Won states with the CHS soccer team
-Lily W. | [lwielar29](https://github.com/lwielar29)| I think I accidently deleted the directions on this nano thing
 
 ## Period 4
 
