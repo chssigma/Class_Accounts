@@ -45,24 +45,3 @@ Aiden L. | [alewand78](https://github.com/alewand78) | I play lacrosse.
 Ghislain V.| [gventre04](https://github.com/gventre04)| Won states with the CHS soccer team
 Lily W. | [lwielar29](https://github.com/lwielar29)| I think I accidently deleted the directions on this nano thing
 
-
-## Period 4
-
-Name | Username | Fun Fact
---- | --- | ---
-Seanan S. | [sshanks49](https://github.com/sshanks49) | I have a black belt in karate
-Imogen A. | [iarmstr81](https://github.com/iarmstr81) | I play soccer.
-Lukas H. | [lhange42](https://github.com/lhange42) | I am half German
-Graham L. | [glenert41](https://github.com/glenert41) | Spain is smaller than all of Africa combined
-Owen M. | [omckenn37](https://github.com/omckenn37) | I enjoy the activity of playing soccer.
-Jude F. | [jfairch81](https://github.com/jfairch81) | I like to play basketball with my friends
-Camden B. | [CamdenBaucom](https://github.com/CamdenBaucom) | I was born in Durham, North Carolina
-Grady G. | [ggilmor66](https://https://github.com/ggilmor66) | I enjoying playing lacrosse.
-Meg G. | [mgist56](https://github.com/mgist56) | I play the flute.
-River M. | [rmalia13](https://github.com/rmalia13) | I like pie.
-Elisabeth S. |[escharf72](https://github.com/escharf72) | I was born in New York City.
-Corin S. | [cstours08](https://github.com/cstours08)| I'm a primarily French, Italian, and German
-Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean
-Kaymin H. | [khester35](https://github.com/khester35) | I play violin. 
-Nico S. | [nsun94](https://github.com/nsun94) | I like to fish 
-Katherine M.| [kmcgrat28](https://github.com/kmcgrat28)| I'm really tall, but I don't wear men's size 13 Nikes.
