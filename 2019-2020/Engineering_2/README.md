@@ -13,6 +13,8 @@ Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped a wild aligat
 
 Name | Username | Fun Fact
 --- | --- | ---
+Heming H. | [phalvor47](https://github.com/phalvor47) | I am the best spikeball player at school
+
 
 ## Period 4
 
