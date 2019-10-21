@@ -43,6 +43,7 @@ Asha G. | [agupta88ccs](https://github.com/agupta88) | I run track and dance.
 Rowan M. | [rmiller85](https://github.com/rmiller85) | The air-speed velocity of an unladen swallow depends on the type of swallow.
 Aiden L. | [alewand78](https://github.com/alewand78) | I play lacrosse.
 Ghislain V.| [gventre04](https://github.com/gventre04)| Won states with the CHS soccer team
+Ortiz - Duran E. | [eortizd29](https;//github.com/eortizd29)| 10/21/19 is the day 
 
 ## Period 4
 
