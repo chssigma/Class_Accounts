@@ -25,7 +25,6 @@ Name | Username | Fun Fact
 
 Name | Username | Fun Fact
 --- | --- | ---
-Luke A. | [AtticusRoberts](https://github.com/AtticusRoberts) | I work for a tech startup
 Alden D. | [adent11](https://github.com/adent11) | Lorem Ipsum
 Julia B. | [jbailey24](https://github.com/jbailey24) | My favorite season is fall
 Lilah H. | [lhassel](https://github.com/lhassel) | I am on a swim team
@@ -36,4 +35,5 @@ Henry C. | [hcoyle91](https://github.com/hcoyle91) | I have REd hair
 
 Name | Username | Fun Fact
 --- | --- | ---
+Luke A. | [AtticusRoberts](https://github.com/AtticusRoberts) | I work for a tech startup
 Ian B. | ibolton95 | I love curling
