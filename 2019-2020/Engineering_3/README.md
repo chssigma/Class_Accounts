@@ -45,6 +45,8 @@ Rowan M. | [rmiller85](https://github.com/rmiller85) | The air-speed velocity of
 Aiden L. | [alewand78](https://github.com/alewand78) | I play lacrosse.
 Ghislain V.| [gventre04](https://github.com/gventre04)| Won states with the CHS soccer team
 Lily W. | [lwielar29](https://github.com/lwielar29)| I think I accidently deleted the directions on this nano thing
+Piper G.| [pguiffr62](https://github.com/pguiffr62)| I have a dog.
+
 
 
 ## Period 4
