@@ -37,3 +37,5 @@ Name | Username | Fun Fact
 --- | --- | ---
 Luke A. | [AtticusRoberts](https://github.com/AtticusRoberts) | I work for a tech startup
 Ian B. | ibolton95 | I love curling
+Talia M. | [tmoore93](https://github.com/tmoore93) | There are more than a 1000 types of cheese.
+
