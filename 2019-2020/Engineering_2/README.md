@@ -36,4 +36,4 @@ Henry C. | [hcoyle91](https://github.com/hcoyle91) | I have REd hair
 
 Name | Username | Fun Fact
 --- | --- | ---
-
+Ian B. | ibolton95 | I love curling
