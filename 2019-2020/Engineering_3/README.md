@@ -40,6 +40,7 @@ Lucas M. | [lmiller87](https://github.com/lmiller87) | I play soccer
 Vann W. | [vwellmo57](http://github.com/vwellmo57) | Latin is a dead language
 Harrison G | [hgreenh21](https://github.com/hgreenh21) | I like the ravens!
 Asha G. | [agupta88ccs](https://github.com/agupta88) | I run track and dance. 
+Deo M. | [dmagar27](https://github.com/dmagar27) | I like turtles
 Rowan M. | [rmiller85](https://github.com/rmiller85) | The air-speed velocity of an unladen swallow depends on the type of swallow.
 Aiden L. | [alewand78](https://github.com/alewand78) | I play lacrosse.
 Ghislain V.| [gventre04](https://github.com/gventre04)| Won states with the CHS soccer team
