@@ -46,3 +46,5 @@ Vann W. | [vwellmo57](http://github.com/vwellmo57) | Latin is a dead language
 Harrison G | [hgreenh21](https://github.com/hgreenh21) | I like the ravens!
 Katherine M.| [kmcgrat28](https://github.com/kmcgrat28)| I'm really tall, but I don't wear men's size 13 Nikes.
 Asha G. | [agupta88ccs](https://github.com/agupta88) | I run track and dance. 
+Deo M. | [dmagar27](https://github.com/dmagar27) | I like turtles
+
