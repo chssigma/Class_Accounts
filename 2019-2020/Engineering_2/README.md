@@ -20,7 +20,7 @@ Heming H. | [phalvor47](https://github.com/phalvor47) | I rode an elephant once
 
 Name | Username | Fun Fact
 --- | --- | ---
-Malchiel J. | [mbjones73](https://github.com/mbjones73) | I cut my face open once
+Malchiel (Scoot) J. | [mbjones73](https://github.com/mbjones73) | I cut my face open once from a bad bike fall
 
 ## Period 6
 
