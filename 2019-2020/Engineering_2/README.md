@@ -20,6 +20,7 @@ Loren L.  | [llemarr42](https://github.com/llemarr42) | I rode an elephant twice
 
 Name | Username | Fun Fact
 --- | --- | ---
+Malchiel (Scoot) J. | [mbjones73](https://github.com/mbjones73) | I cut my face open once from a bad bike fall
 
 ## Period 6
 
@@ -38,4 +39,5 @@ Name | Username | Fun Fact
 Luke A. | [AtticusRoberts](https://github.com/AtticusRoberts) | I work for a tech startup
 Ian B. | ibolton95 | I love curling
 Talia M. | [tmoore93](https://github.com/tmoore93) | There are more than a 1000 types of cheese.
+
 
