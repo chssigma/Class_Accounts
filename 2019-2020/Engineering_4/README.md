@@ -16,3 +16,5 @@ David W. | [david-wiles6](https://github.com/david-wiles6) | I like engineering
 Aidan M. | [ADaMiller14](https://github.com/ADaMiller14) | I am in a cult: Marching Band
 Bethany B. | [bkbazemore](https://github.com/bkbazemore) | I play lacrosse and volleyball.
 Jamez L. | [jlynch56](https://github.com/jlynch56) | I like programming.
+Adrian A.| [aanders96](https://github.com/aanders96)| I like Lacrosse.
+Jaleom A-M.| [jadamsm37](https://github.com/jadamsm37)| I like Football.
