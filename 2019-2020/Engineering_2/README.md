@@ -9,6 +9,7 @@ Name | Username | Fun Fact
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I was born in El Paso, TX
 Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped a wild aligator, and no longer recommend it.
 
+
 ## Period 2
 
 Name | Username | Fun Fact
@@ -16,11 +17,14 @@ Name | Username | Fun Fact
 Heming H. | [phalvor47](https://github.com/phalvor47) | I rode an elephant once
 Loren L.  | [llemarr42](https://github.com/llemarr42) | I rode an elephant twice
 
+
 ## Period 4
 
 Name | Username | Fun Fact
 --- | --- | ---
 Malchiel (Scoot) J. | [mbjones73](https://github.com/mbjones73) | I cut my face open once from a bad bike fall
+Justine B.| [jbrown56](https://github.com/jbrown56)|I knocked out part of my front tooth in field hockey 
+
 
 ## Period 6
 
