@@ -40,16 +40,18 @@ Lucas M. | [lmiller87](https://github.com/lmiller87) | I play soccer
 Vann W. | [vwellmo57](http://github.com/vwellmo57) | Latin is a dead language
 Harrison G | [hgreenh21](https://github.com/hgreenh21) | I like the ravens!
 Asha G. | [agupta88ccs](https://github.com/agupta88) | I run track and dance. 
+Deo M. | [dmagar27](https://github.com/dmagar27) | I like turtles
 Rowan M. | [rmiller85](https://github.com/rmiller85) | The air-speed velocity of an unladen swallow depends on the type of swallow.
 Aiden L. | [alewand78](https://github.com/alewand78) | I play lacrosse.
 Ghislain V.| [gventre04](https://github.com/gventre04)| Won states with the CHS soccer team
 Ortiz - Duran E. | [eortizd29](https;//github.com/eortizd29)| 10/21/19 is the day 
+Lily W. | [lwielar29](https://github.com/lwielar29)| I think I accidently deleted the directions on this nano thing
+Piper G.| [pguiffr62](https://github.com/pguiffr62)| I have a dog.
 
 ## Period 4
 
 Name | Username | Fun Fact
 --- | --- | ---
-Seanan S. | [sshanks49](https://github.com/sshanks49) | I have a black belt in karate
 Imogen A. | [iarmstr81](https://github.com/iarmstr81) | I play soccer.
 Lukas H. | [lhange42](https://github.com/lhange42) | I am half German
 Graham L. | [glenert41](https://github.com/glenert41) | Spain is smaller than all of Africa combined
@@ -63,5 +65,6 @@ Elisabeth S. |[escharf72](https://github.com/escharf72) | I was born in New York
 Corin S. | [cstours08](https://github.com/cstours08)| I'm a primarily French, Italian, and German
 Eve K. | [ekeesec33](https://gitub.com/ekeesec33)| I'm half Korean
 Kaymin H. | [khester35](https://github.com/khester35) | I play violin. 
+Seanan S. | [sshanks49](https://github.com/sshanks49) | I have a black belt in karate
 Nico S. | [nsun94](https://github.com/nsun94) | I like to fish 
 Katherine M.| [kmcgrat28](https://github.com/kmcgrat28)| I'm really tall, but I don't wear men's size 13 Nikes.
