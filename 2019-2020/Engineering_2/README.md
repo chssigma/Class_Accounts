@@ -14,7 +14,8 @@ Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped a wild aligat
 Name | Username | Fun Fact
 --- | --- | ---
 Heming H. | [phalvor47](https://github.com/phalvor47) | I rode an elephant once
-Loren L.  | [llemarr42](https://github.com/llemarr42) | I rode an elephant twice
+Loren L.  | [llemarr42](https://github.com/llemarr42) | |  I rode an elephant twice
+Ben E.  | [bewing09](https://github.com/bewing09) | I touched an elk 
 
 ## Period 4
 
