@@ -32,21 +32,16 @@ Anthony S. | [ashipp98](https://github.com/ashipp98) | I like Call Of Duty
 
 ## Period 3
 
-Name | Username | Fun Fact
---- | --- | ---
-Lucas M. | [lmiller87](https://github.com/lmiller87) | I play soccer
-Seth C. | [scollie86](https://github.com/scollie86) | I was born in Clemson
-Lucas M. | [lmiller87](https://github.com/lmiller87) | I play soccer
-Vann W. | [vwellmo57](http://github.com/vwellmo57) | Latin is a dead language
-Harrison G | [hgreenh21](https://github.com/hgreenh21) | I like the ravens!
-Asha G. | [agupta88ccs](https://github.com/agupta88) | I run track and dance. 
-Deo M. | [dmagar27](https://github.com/dmagar27) | I like turtles
-Rowan M. | [rmiller85](https://github.com/rmiller85) | The air-speed velocity of an unladen swallow depends on the type of swallow.
-Aiden L. | [alewand78](https://github.com/alewand78) | I play lacrosse.
-Ghislain V.| [gventre04](https://github.com/gventre04)| Won states with the CHS soccer team
-Ortiz - Duran E. | [eortizd29](https;//github.com/eortizd29)| 10/21/19 is the day 
-Lily W. | [lwielar29](https://github.com/lwielar29)| I think I accidently deleted the directions on this nano thing
-Piper G.| [pguiffr62](https://github.com/pguiffr62)| I have a dog.
+Name | Username | Fun Fact --- | --- | --- Lucas M. | [lmiller87](https://github.com/lmiller87) | I play soccer Seth C. | 
+X[scollie86](https://github.com/scollie86) | I was born in Clemson Lucas M. | [lmiller87](https://github.com/lmiller87) | I 
+play soccer Vann W. | [vwellmo57](http://github.com/vwellmo57) | Latin is a dead language Harrison G | 
+[hgreenh21](https://github.com/hgreenh21) | I like the ravens! Asha G. | [agupta88ccs](https://github.com/agupta88) | I run 
+track and dance. Deo M. | [dmagar27](https://github.com/dmagar27) | I like turtles Rowan M. | 
+[rmiller85](https://github.com/rmiller85) | The air-speed velocity of an unladen swallow depends on the type of swallow. Aiden 
+L. | [alewand78](https://github.com/alewand78) | I play lacrosse. Ghislain V.| [gventre04](https://github.com/gventre04)| Won 
+states with the CHS soccer team Ortiz - Duran E. | [eortizd29](https;//github.com/eortizd29)| 10/21/19 is the day Lily W. | 
+[lwielar29](https://github.com/lwielar29)| I think I accidently deleted the directions on this nano thing Piper G.| 
+[pguiffr62](https://github.com/pguiffr62)| I have a dog. Abdell Y.
 
 ## Period 4
 
