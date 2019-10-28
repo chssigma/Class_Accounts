@@ -22,6 +22,7 @@ Ben E.  | [bewing09](https://github.com/bewing09) | I touched an elk
 Name | Username | Fun Fact
 --- | --- | ---
 Malchiel (Scoot) J. | [mbjones73](https://github.com/mbjones73) | I cut my face open once from a bad bike fall
+Harriet N | [hnovak94](https://github.com/hnovak94)   | The only letter not on the periodic table is J
 
 ## Period 6
 
