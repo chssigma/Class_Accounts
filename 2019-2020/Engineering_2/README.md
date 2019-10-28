@@ -24,7 +24,9 @@ Ben E.  | [bewing09](https://github.com/bewing09) | I touched an elk
 Name | Username | Fun Fact
 --- | --- | ---
 Malchiel (Scoot) J. | [mbjones73](https://github.com/mbjones73) | I cut my face open once from a bad bike fall
+Will L |  [wlawson88](https://github.com/wlawson88) |  i died 3 times when i was born
 Justine B.| [jbrown56](https://github.com/jbrown56)|I knocked out part of my front tooth in field hockey 
+
 
 
 ## Period 6
@@ -36,6 +38,7 @@ Julia B. | [jbailey24](https://github.com/jbailey24) | My favorite season is fal
 Lilah H. | [lhassel](https://github.com/lhassel) | I am on a swim team
 Mekhi H. | [mhernan80](https://github.com/mhernan80) | Did you know that rabbits sleep with their eyes open
 Henry C. | [hcoyle91](https://github.com/hcoyle91) | I have REd hair
+
 
 ## Period 7
 
