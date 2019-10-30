@@ -22,7 +22,7 @@ Ben E.  | [bewing09](https://github.com/bewing09) | I touched an elk
 Name | Username | Fun Fact
 --- | --- | ---
 Malchiel (Scoot) J. | [mbjones73](https://github.com/mbjones73) | I cut my face open once from a bad bike fall
-
+Jeanne Berthy |  [jberthy39](https://github.com/jberthy39/Class_Accounts)  |  I was born in Paris, France.
 ## Period 6
 
 Name | Username | Fun Fact
