@@ -24,6 +24,7 @@ Kit T. | [ktremag](https://github.com/ktremag) | President of Science Olympiad
 Name | Username | Fun Fact
 --- | --- | ---
 Malchiel (Scoot) J. | [mbjones73](https://github.com/mbjones73) | I cut my face open once from a bad bike fall
+Jeanne Berthy |  [jberthy39](https://github.com/jberthy39/Class_Accounts)  |  I was born in Paris, France.
 Harriet N | [hnovak94](https://github.com/hnovak94)   | The only letter not on the periodic table is J
 Will L |  [wlawson88](https://github.com/wlawson88) |  i died 3 times when i was born
 Justine B.| [jbrown56](https://github.com/jbrown56)|I knocked out part of my front tooth in field hockey 
