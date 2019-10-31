@@ -19,6 +19,7 @@ Loren L.  | [llemarr42](https://github.com/llemarr42) |  I rode an elephant twic
 Ben E.  | [bewing09](https://github.com/bewing09) | I touched an elk 
 Kit T. | [ktremag](https://github.com/ktremag) | President of Science Olympiad
 Angus M.| [amunro93](https://github.com/amunro93) | I've been to Africa  
+Christian M. | [cmillar70](https://github.com/cmillar70) | There is nothing fun about me
 
 ## Period 4
 
