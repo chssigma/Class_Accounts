@@ -48,7 +48,6 @@ Ortiz - Duran E. | [eortizd29](https;//github.com/eortizd29)| 10/21/19 is the da
 Lily W. | [lwielar29](https://github.com/lwielar29)| I think I accidently deleted the directions on this nano thing
 Piper G.| [pguiffr62](https://github.com/pguiffr62)| I have a dog. 
 Abdell Y.| [ayahya70](https://github.com/ayahya70)| I was born in Egypt and I LOVE SOCCER.
-Piper G.| [pguiffr62](https://github.com/pguiffr62)| I have a dog.
 Asha G. | [agupta88ccs](https://github.com/agupta88ccs) | I run track and dance. 
 
 ## Period 4
