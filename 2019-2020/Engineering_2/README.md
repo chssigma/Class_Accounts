@@ -41,7 +41,7 @@ Julia B. | [jbailey24](https://github.com/jbailey24) | My favorite season is fal
 Lilah H. | [lhassel](https://github.com/lhassel) | I am on a swim team
 Mekhi H. | [mhernan80](https://github.com/mhernan80) | Did you know that rabbits sleep with their eyes open
 Henry C. | [hcoyle91](https://github.com/hcoyle91) | I have REd hair
-
+Andrea L.| [Alefkow37](https://github.com/Alefkow37) | I have a twin
 
 ## Period 7
 
