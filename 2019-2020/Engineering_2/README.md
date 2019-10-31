@@ -30,6 +30,7 @@ Jeanne Berthy |  [jberthy39](https://github.com/jberthy39/Class_Accounts)  |  I 
 Harriet N | [hnovak94](https://github.com/hnovak94)   | The only letter not on the periodic table is J
 Will L |  [wlawson88](https://github.com/wlawson88) |  i died 3 times when i was born
 Justine B.| [jbrown56](https://github.com/jbrown56)|I knocked out part of my front tooth in field hockey 
+Soren A. | [sarbela55](https://github.com/sarbela55) | I broke my arm in 8th grade
 
 ## Period 6
 
@@ -49,5 +50,6 @@ Name | Username | Fun Fact
 Luke A. | [AtticusRoberts](https://github.com/AtticusRoberts) | I work for a tech startup
 Ian B. | ibolton95 | I love curling
 Talia M. | [tmoore93](https://github.com/tmoore93) | There are more than a 1000 types of cheese.
+
 
 
