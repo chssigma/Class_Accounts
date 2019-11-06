@@ -60,7 +60,7 @@ Graham L. | [glenert41](https://github.com/glenert41) | Spain is smaller than al
 Owen M. | [omckenn37](https://github.com/omckenn37) | I enjoy the activity of playing soccer.
 Jude F. | [jfairch81](https://github.com/jfairch81) | I like to play basketball with my friends
 Camden B. | [CamdenBaucom](https://github.com/CamdenBaucom) | I was born in Durham, North Carolina
-Grady G. | [ggilmor66](https://https://github.com/ggilmor66) | I enjoying playing lacrosse.
+Grady G. | [ggilmor66](https://github.com/ggilmor66) | I enjoying playing lacrosse.
 Meg G. | [mgist56](https://github.com/mgist56) | I play the flute.
 River M. | [rmalia13](https://github.com/rmalia13) | I like pie.
 Elisabeth S. |[escharf72](https://github.com/escharf72) | I was born in New York City.
