@@ -5,4 +5,4 @@ Add your name (First name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I was born in El Paso, TX
-Josie M. | [jmuss07](https://github.com/jmuss07) |  ...So bye bye miss American pie. Drove my Chevy to the levy but the levy was dry.
+Josie M. | [jmuss07](https://github.com/jmuss07) |  I memorized all of the lyrics to the song Americn Pie
