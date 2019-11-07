@@ -18,6 +18,7 @@ Name | Username | Fun Fact
 Name | Username | Fun Fact
 --- | --- | ---
 Josie M. | [jmuss07](https://github.com/jmuss07) |  ...So bye bye miss American pie. Drove my Chevy to the levy but the levy was dry.
+Johnny K. | [jkrosby51](https://github.com/jkrosby51) | I have one cat and one dog.
 
 ## Period 7
 
