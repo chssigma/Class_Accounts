@@ -23,3 +23,4 @@ Josie M. | [jmuss07](https://github.com/jmuss07) | I memorized all of the lyrics
 
 Name | Username | Fun Fact
 --- | --- | ---
+William Keenan |  willhk10 | I swim a lot
