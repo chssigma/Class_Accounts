@@ -22,5 +22,6 @@ Josie M. | [jmuss07](https://github.com/jmuss07) |  ...So bye bye miss American 
 ## Period 7
 
 Name | Username | Fun Fact
+--- | --- | ---
 William Keenan |  willhk10 | I swim a lot
 
