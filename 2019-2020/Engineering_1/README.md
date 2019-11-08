@@ -17,11 +17,10 @@ Name | Username | Fun Fact
 
 Name | Username | Fun Fact
 --- | --- | ---
-Josie M. | [jmuss07](https://github.com/jmuss07) |  ...So bye bye miss American pie. Drove my Chevy to the levy but the levy was dry.
+Josie M. | [jmuss07](https://github.com/jmuss07) | I memorized all of the lyrics to the song Americn Pie
 
 ## Period 7
 
 Name | Username | Fun Fact
 --- | --- | ---
 William Keenan |  willhk10 | I swim a lot
-
