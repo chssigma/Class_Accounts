@@ -31,7 +31,7 @@ Harriet N | [hnovak94](https://github.com/hnovak94)   | The only letter not on t
 Will L |  [wlawson88](https://github.com/wlawson88) |  i died 3 times when i was born
 Justine B.| [jbrown56](https://github.com/jbrown56)|I knocked out part of my front tooth in field hockey 
 Soren A. | [sarbela55](https://github.com/sarbela55) | I broke my arm in 8th grade
-
+Justyn R.| [ccsjreyes64](https://github.com/ccsjreyes64) | I'm the tallest kid in the school.
 ## Period 6
 
 Name | Username | Fun Fact
