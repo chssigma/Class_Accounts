@@ -44,7 +44,7 @@ Deo M. | [dmagar27](https://github.com/dmagar27) | I like turtles
 Rowan M. | [rmiller85](https://github.com/rmiller85) | The air-speed velocity of an unladen swallow depends on the type of swallow.
 Aiden L. | [alewand78](https://github.com/alewand78) | I play lacrosse.
 Ghislain V.| [gventre04](https://github.com/gventre04)| Won states with the CHS soccer team
-Ortiz - Duran E. | [eortizd29](https;//github.com/eortizd29)| 10/21/19 is the day 
+Ortiz - Duran E. | [eortizd29](https://github.com/eortizd29)| 10/21/19 is the day 
 Lily W. | [lwielar29](https://github.com/lwielar29)| I think I accidently deleted the directions on this nano thing
 Piper G.| [pguiffr62](https://github.com/pguiffr62)| I have a dog.
 
