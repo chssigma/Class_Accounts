@@ -30,6 +30,7 @@ Olivia P. | [opember44](https://github.com/opember44) | I play soccer.
 Luuk S. | [lspence40](https://github.com/lspence40) | I am definitley a real human being and not a sentient virus.
 Anthony S. | [ashipp98](https://github.com/ashipp98) | I like Call Of Duty
 Seth C. | [scollie86](https://github.com/scollie86) | I was born in Clemson
+Said O. | [sosman83](https://github.com/sosman83) | I'm a 2 time state champ in soccer.
 
 
 ## Period 3
