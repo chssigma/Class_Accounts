@@ -25,4 +25,5 @@ Johnny K. | [jkrosby51](https://github.com/jkrosby51) | I have one cat and one d
 
 Name | Username | Fun Fact
 --- | --- | ---
-William Keenan |  willhk10 | I swim a lot
+William Keenan |  [willhk10](https://github.com/willhk10) | I swim a lot
+Nathan Ryan | [nryan92](https://github.com/nryan92) | I play baseball for CHS
