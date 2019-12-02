@@ -20,7 +20,10 @@ Ben E.  | [bewing09](https://github.com/bewing09) | I touched an elk
 Kit T. | [ktremag](https://github.com/ktremag) | President of Science Olympiad
 Angus M.| [amunro93](https://github.com/amunro93) | I've been to Africa  
 Christian M. | [cmillar70](https://github.com/cmillar70) | There is nothing fun about me
+Bahiya A. | [baldoor99](https://github.com/baldoor99) | I'm from Baghdad,Iraq
 Isaac H. | [IsaacHuaypuna](https://github.com/IsaacHuaypuna) | I went to South America over the summer 2 years ago.
+
+
 ## Period 4
 
 Name | Username | Fun Fact
