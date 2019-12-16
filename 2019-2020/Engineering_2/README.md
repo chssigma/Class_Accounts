@@ -37,6 +37,8 @@ Soren A. | [sarbela55](https://github.com/sarbela55) | I broke my arm in 8th gra
 Justyn R.| [ccsjreyes64](https://github.com/ccsjreyes64) | I'm the tallest kid in the school.
 Liam S. | [lschenc41](https://github.com/lschenc41) | I'm half-Swedish
 Max S. |  [msweet53](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | 2 c00l 4 sch00l
+Dylan S. | [dstuken31](https://github.com/dstuken31) | Fear of the number 13 is called triskaidekaphobia.
+
 ## Period 6
 
 Name | Username | Fun Fact
