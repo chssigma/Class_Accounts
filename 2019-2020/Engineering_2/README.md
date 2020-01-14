@@ -31,6 +31,7 @@ Harriet N | [hnovak94](https://github.com/hnovak94)   | The only letter not on t
 Will L |  [wlawson88](https://github.com/wlawson88) |  i died 3 times when i was born
 Justine B.| [jbrown56](https://github.com/jbrown56)|I knocked out part of my front tooth in field hockey 
 Soren A. | [sarbela55](https://github.com/sarbela55) | I broke my arm in 8th grade
+John "Bob" K. | [jkammau97](https://github.com/jkammau97) | [DEFGECD](https://youtu.be/A7dLvvbmTPU)
 
 ## Period 6
 
