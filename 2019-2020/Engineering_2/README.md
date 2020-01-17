@@ -20,6 +20,9 @@ Ben E.  | [bewing09](https://github.com/bewing09) | I touched an elk
 Kit T. | [ktremag](https://github.com/ktremag) | President of Science Olympiad
 Angus M.| [amunro93](https://github.com/amunro93) | I've been to Africa  
 Christian M. | [cmillar70](https://github.com/cmillar70) | There is nothing fun about me
+Bahiya A. | [baldoor99](https://github.com/baldoor99) | I'm from Baghdad,Iraq
+Isaac H. | [IsaacHuaypuna](https://github.com/IsaacHuaypuna) | I went to South America over the summer 2 years ago.
+Frank M.  | .[fmyhre77](https://github.com/fmyhre77) | I am a lifegaurd
 
 ## Period 4
 
@@ -31,7 +34,12 @@ Harriet N | [hnovak94](https://github.com/hnovak94)   | The only letter not on t
 Will L |  [wlawson88](https://github.com/wlawson88) |  i died 3 times when i was born
 Justine B.| [jbrown56](https://github.com/jbrown56)|I knocked out part of my front tooth in field hockey 
 Soren A. | [sarbela55](https://github.com/sarbela55) | I broke my arm in 8th grade
+Justyn R.| [ccsjreyes64](https://github.com/ccsjreyes64) | I'm the tallest kid in the school.
+Liam S. | [lschenc41](https://github.com/lschenc41) | I'm half-Swedish
+Max S. |  [msweet53](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | 2 c00l 4 sch00l
+Dylan S. | [dstuken31](https://github.com/dstuken31) | Fear of the number 13 is called triskaidekaphobia.
 John "Bob" K. | [jkammau97](https://github.com/jkammau97) | [DEFGECD](https://youtu.be/A7dLvvbmTPU)
+
 
 ## Period 6
 
@@ -51,6 +59,8 @@ Name | Username | Fun Fact
 Luke A. | [AtticusRoberts](https://github.com/AtticusRoberts) | I work for a tech startup
 Ian B. | ibolton95 | I love curling
 Talia M. | [tmoore93](https://github.com/tmoore93) | There are more than a 1000 types of cheese.
-
+Akari H. | [ahernan79](http://github.com/ahernan79) | I'm secretly an alien
+Violet C-W | [vcraghe32](https://github.com/vcraghe32) | My name is a color and  a flower
+Aly S. | [aseidma21](https://github.com/aseidma21)| Soccer is my favorite sport
 
 
