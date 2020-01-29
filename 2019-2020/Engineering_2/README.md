@@ -49,6 +49,7 @@ Lilah H. | [lhassel](https://github.com/lhassel) | I am on a swim team
 Mekhi H. | [mhernan80](https://github.com/mhernan80) | Did you know that rabbits sleep with their eyes open
 Henry C. | [hcoyle91](https://github.com/hcoyle91) | I have REd hair
 Andrea L.| [Alefkow37](https://github.com/Alefkow37) | I have a twin
+Ari M. | [Amilste16](https://github.com/amilste16) | I can wiggle my ears
 
 ## Period 7
 
@@ -60,5 +61,6 @@ Talia M. | [tmoore93](https://github.com/tmoore93) | There are more than a 1000 
 Akari H. | [ahernan79](http://github.com/ahernan79) | I'm secretly an alien
 Violet C-W | [vcraghe32](https://github.com/vcraghe32) | My name is a color and  a flower
 Aly S. | [aseidma21](https://github.com/aseidma21)| Soccer is my favorite sport
+
 
 
