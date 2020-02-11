@@ -61,6 +61,6 @@ Talia M. | [tmoore93](https://github.com/tmoore93) | There are more than a 1000 
 Akari H. | [ahernan79](http://github.com/ahernan79) | I'm secretly an alien
 Violet C-W | [vcraghe32](https://github.com/vcraghe32) | My name is a color and  a flower
 Aly S. | [aseidma21](https://github.com/aseidma21)| Soccer is my favorite sport
-
+Watts B. | [wbrown97a](https://github.com/wbrown97a) | I'm colorblind
 
 
