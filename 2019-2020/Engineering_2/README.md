@@ -62,5 +62,5 @@ Akari H. | [ahernan79](http://github.com/ahernan79) | I'm secretly an alien
 Violet C-W | [vcraghe32](https://github.com/vcraghe32) | My name is a color and  a flower
 Aly S. | [aseidma21](https://github.com/aseidma21)| Soccer is my favorite sport
 Watts B. | [wbrown97a](https://github.com/wbrown97a) | I'm colorblind
-
+Nicholas T. | [ntaylor32] (https://github.com/ntaylor32) | I'm 3 feet tall
 
