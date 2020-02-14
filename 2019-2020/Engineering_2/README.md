@@ -59,7 +59,7 @@ Jacob L. | [jlightb30](https://github.com/jlightb30) | I came into school late t
 Name | Username | Fun Fact
 --- | --- | ---
 Luke A. | [AtticusRoberts](https://github.com/AtticusRoberts) | I work for a tech startup
-Ian B. | ibolton95(https://github.com/ibolton95) | I love curling
+Ian B. | [ibolton95](https://github.com/ibolton95) | I love curling
 Talia M. | [tmoore93](https://github.com/tmoore93) | There are more than a 1000 types of cheese.
 Akari H. | [ahernan79](http://github.com/ahernan79) | I'm secretly an alien
 Violet C-W | [vcraghe32](https://github.com/vcraghe32) | My name is a color and  a flower
