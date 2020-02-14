@@ -50,6 +50,7 @@ Mekhi H. | [mhernan80](https://github.com/mhernan80) | Did you know that rabbits
 Henry C. | [hcoyle91](https://github.com/hcoyle91) | I have REd hair
 Andrea L.| [Alefkow37](https://github.com/Alefkow37) | I have a twin
 Ari M. | [Amilste16](https://github.com/amilste16) | I can wiggle my ears
+Jacob L. | [jlightb30](https://github.com/jlightb30) | I came into school late today (2/14/2020)
 
 ## Period 7
 
