@@ -53,7 +53,7 @@ Kaitlyn W. | [kwingfi24](https://github.com/kwingfi24) | I have a sister
 Ari M. | [Amilste16](https://github.com/amilste16) | I can wiggle my ears
 Jacob L. | [jlightb30](https://github.com/jlightb30) | I came into school late today (2/14/2020)
 jaelyn L. | [jlynch544](https://github.com/jlynch544)| i like swimming 
-Preston B. | [dburton35] (https://github.com/dburton35) | I like to play golf
+Preston B. | [dburton35](https://github.com/dburton35) | I like to play golf
 ## Period 7
 
 Name | Username | Fun Fact
