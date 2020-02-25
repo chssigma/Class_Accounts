@@ -17,6 +17,7 @@ Name | Username | Fun Fact
 Heming H. | [phalvor47](https://github.com/phalvor47) | I rode an elephant once
 Loren L.  | [llemarr42](https://github.com/llemarr42) |  I rode an elephant twice
 Ben E.  | [bewing09](https://github.com/bewing09) | I touched an elk 
+
 Kit T. | [ktremag](https://github.com/ktremag) | President of Science Olympiad
 Angus M.| [amunro93](https://github.com/amunro93) | I've been to Africa  
 Christian M. | [cmillar70](https://github.com/cmillar70) | There is nothing fun about me
@@ -67,6 +68,9 @@ Akari H. | [ahernan79](http://github.com/ahernan79) | I'm secretly an alien
 Violet C-W | [vcraghe32](https://github.com/vcraghe32) | My name is a color and  a flower
 Aly S. | [aseidma21](https://github.com/aseidma21)| Soccer is my favorite sport
 Watts B. | [wbrown97a](https://github.com/wbrown97a) | I'm colorblind
+Max T. | [mtyree18](https://github.com/mtyree18) | I'm not colorblind
 Nicholas T. | [ntaylor32](https://github.com/ntaylor32) | I'm 3 feet tall
 Owen L. | [Olindsa32](https://github.com/olindsa32) | I can't think of anythign fun about me
+Evan C. | [ecann07](https://github.com/ecann07) | I will be rich and homeless
+
 
