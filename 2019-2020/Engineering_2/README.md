@@ -17,6 +17,7 @@ Name | Username | Fun Fact
 Heming H. | [phalvor47](https://github.com/phalvor47) | I rode an elephant once
 Loren L.  | [llemarr42](https://github.com/llemarr42) |  I rode an elephant twice
 Ben E.  | [bewing09](https://github.com/bewing09) | I touched an elk 
+
 Kit T. | [ktremag](https://github.com/ktremag) | President of Science Olympiad
 Angus M.| [amunro93](https://github.com/amunro93) | I've been to Africa  
 Christian M. | [cmillar70](https://github.com/cmillar70) | There is nothing fun about me
@@ -49,19 +50,25 @@ Lilah H. | [lhassel](https://github.com/lhassel) | I am on a swim team
 Mekhi H. | [mhernan80](https://github.com/mhernan80) | Did you know that rabbits sleep with their eyes open
 Henry C. | [hcoyle91](https://github.com/hcoyle91) | I have REd hair
 Andrea L.| [Alefkow37](https://github.com/Alefkow37) | I have a twin
+Kaitlyn W. | [kwingfi24](https://github.com/kwingfi24) | I have a sister
 Ari M. | [Amilste16](https://github.com/amilste16) | I can wiggle my ears
+Jacob L. | [jlightb30](https://github.com/jlightb30) | I came into school late today (2/14/2020)
+jaelyn L. | [jlynch544](https://github.com/jlynch544)| i like swimming 
+Griffin W.| [gwalts94](https://github.com/gwalts94) | I like basketball 
+Preston B. | [dburton35](https://github.com/dburton35) | I like to play golf
 
 ## Period 7
 
 Name | Username | Fun Fact
 --- | --- | ---
 Luke A. | [AtticusRoberts](https://github.com/AtticusRoberts) | I work for a tech startup
-Ian B. | ibolton95 | I love curling
+Ian B. | [ibolton95](https://github.com/ibolton95) | I love curling
 Talia M. | [tmoore93](https://github.com/tmoore93) | There are more than a 1000 types of cheese.
 Akari H. | [ahernan79](http://github.com/ahernan79) | I'm secretly an alien
 Violet C-W | [vcraghe32](https://github.com/vcraghe32) | My name is a color and  a flower
 Aly S. | [aseidma21](https://github.com/aseidma21)| Soccer is my favorite sport
 Watts B. | [wbrown97a](https://github.com/wbrown97a) | I'm colorblind
 Max T. | [mtyree18](https://github.com/mtyree18) | I'm not colorblind
-
+Nicholas T. | [ntaylor32](https://github.com/ntaylor32) | I'm 3 feet tall
+Evan C. | [ecann07](https://github.com/ecann07) | I will be rich and homeless
 
