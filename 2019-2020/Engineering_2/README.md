@@ -68,4 +68,5 @@ Violet C-W | [vcraghe32](https://github.com/vcraghe32) | My name is a color and 
 Aly S. | [aseidma21](https://github.com/aseidma21)| Soccer is my favorite sport
 Watts B. | [wbrown97a](https://github.com/wbrown97a) | I'm colorblind
 Nicholas T. | [ntaylor32](https://github.com/ntaylor32) | I'm 3 feet tall
+Owen L. | [Olindsa32](https://github.com/olindsa32) | I can't think of anythign fun about me
 
