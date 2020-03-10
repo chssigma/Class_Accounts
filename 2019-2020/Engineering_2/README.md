@@ -72,5 +72,4 @@ Max T. | [mtyree18](https://github.com/mtyree18) | I'm not colorblind
 Nicholas T. | [ntaylor32](https://github.com/ntaylor32) | I'm 3 feet tall
 Owen L. | [Olindsa32](https://github.com/olindsa32) | I can't think of anythign fun about me
 Evan C. | [ecann07](https://github.com/ecann07) | I will be rich and homeless
-
-
+polo H |  [Polohill4]https://github.com/Polohill4 | i rock an rap
