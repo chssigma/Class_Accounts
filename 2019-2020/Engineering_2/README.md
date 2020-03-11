@@ -40,6 +40,8 @@ Justyn R.| [ccsjreyes64](https://github.com/ccsjreyes64) | I'm the tallest kid i
 Liam S. | [lschenc41](https://github.com/lschenc41) | I'm half-Swedish
 Max S. |  [msweet53](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | 2 c00l 4 sch00l
 Dylan S. | [dstuken31](https://github.com/dstuken31) | Fear of the number 13 is called triskaidekaphobia.
+John "Bob" K. | [jkammau97](https://github.com/jkammau97) | [DEFGECD](https://youtu.be/A7dLvvbmTPU)
+
 
 ## Period 6
 
