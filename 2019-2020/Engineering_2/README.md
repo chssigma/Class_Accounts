@@ -24,7 +24,7 @@ Christian M. | [cmillar70](https://github.com/cmillar70) | There is nothing fun 
 Bahiya A. | [baldoor99](https://github.com/baldoor99) | I'm from Baghdad,Iraq
 Isaac H. | [IsaacHuaypuna](https://github.com/IsaacHuaypuna) | I went to South America over the summer 2 years ago.
 Frank M.  | .[fmyhre77](https://github.com/fmyhre77) | I am a lifegaurd
-
+Asadullah F.| [afaqirz67](https://github.com/afaqirz67) | I am a trilingual 
 ## Period 4
 
 Name | Username | Fun Fact
