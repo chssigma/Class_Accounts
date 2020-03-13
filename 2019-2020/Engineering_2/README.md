@@ -76,4 +76,5 @@ Nicholas T. | [ntaylor32](https://github.com/ntaylor32) | I'm 3 feet tall
 Elijah L. | [elijahlaury11](https://github.com/Elijahlaury11) | I african and mexican
 Owen L. | [Olindsa32](https://github.com/olindsa32) | I can't think of anythign fun about me
 Evan C. | [ecann07](https://github.com/ecann07) | I will be rich and homeless
+polo H |  [Polohill4](https://github.com/Polohill4) | i rock and rap
 
