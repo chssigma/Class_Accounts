@@ -73,7 +73,7 @@ Aly S. | [aseidma21](https://github.com/aseidma21)| Soccer is my favorite sport
 Watts B. | [wbrown97a](https://github.com/wbrown97a) | I'm colorblind
 Max T. | [mtyree18](https://github.com/mtyree18) | I'm not colorblind
 Nicholas T. | [ntaylor32](https://github.com/ntaylor32) | I'm 3 feet tall
+Elijah L. | [elijahlaury11](https://github.com/Elijahlaury11) | I african and mexican
 Owen L. | [Olindsa32](https://github.com/olindsa32) | I can't think of anythign fun about me
 Evan C. | [ecann07](https://github.com/ecann07) | I will be rich and homeless
-
 
