@@ -5,4 +5,4 @@ Add your name (first name, last initial), github username (with a link), and a f
 ## Teachers
 Name | Username | Fun Fact
 --- | --- | ---
-Matt S. | [DoctorShields](https://github.com/DoctorShields) | :smiley:
+Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like rainbows :rainbow:
