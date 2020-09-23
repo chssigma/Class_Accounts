@@ -17,14 +17,14 @@ Name | Username | Fun Fact
 Heming H. | [phalvor47](https://github.com/phalvor47) | I rode an elephant once
 Loren L.  | [llemarr42](https://github.com/llemarr42) |  I rode an elephant twice
 Ben E.  | [bewing09](https://github.com/bewing09) | I touched an elk 
-
 Kit T. | [ktremag](https://github.com/ktremag) | President of Science Olympiad
 Angus M.| [amunro93](https://github.com/amunro93) | I've been to Africa  
 Christian M. | [cmillar70](https://github.com/cmillar70) | There is nothing fun about me
 Bahiya A. | [baldoor99](https://github.com/baldoor99) | I'm from Baghdad,Iraq
 Isaac H. | [IsaacHuaypuna](https://github.com/IsaacHuaypuna) | I went to South America over the summer 2 years ago.
+Conrad H. | [cheins48](https://github.com/cheins48) | I have been to 90+ live phish shows.
 Frank M.  | .[fmyhre77](https://github.com/fmyhre77) | I am a lifegaurd
-
+Asadullah F.| [afaqirz67](https://github.com/afaqirz67) | I am a trilingual 
 ## Period 4
 
 Name | Username | Fun Fact
@@ -39,6 +39,8 @@ Justyn R.| [ccsjreyes64](https://github.com/ccsjreyes64) | I'm the tallest kid i
 Liam S. | [lschenc41](https://github.com/lschenc41) | I'm half-Swedish
 Max S. |  [msweet53](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | 2 c00l 4 sch00l
 Dylan S. | [dstuken31](https://github.com/dstuken31) | Fear of the number 13 is called triskaidekaphobia.
+John "Bob" K. | [jkammau97](https://github.com/jkammau97) | [DEFGECD](https://youtu.be/A7dLvvbmTPU)
+
 
 ## Period 6
 
@@ -70,5 +72,8 @@ Aly S. | [aseidma21](https://github.com/aseidma21)| Soccer is my favorite sport
 Watts B. | [wbrown97a](https://github.com/wbrown97a) | I'm colorblind
 Max T. | [mtyree18](https://github.com/mtyree18) | I'm not colorblind
 Nicholas T. | [ntaylor32](https://github.com/ntaylor32) | I'm 3 feet tall
+Elijah L. | [elijahlaury11](https://github.com/Elijahlaury11) | I african and mexican
+Owen L. | [Olindsa32](https://github.com/olindsa32) | I can't think of anythign fun about me
 Evan C. | [ecann07](https://github.com/ecann07) | I will be rich and homeless
+polo H |  [Polohill4](https://github.com/Polohill4) | i rock and rap
 
