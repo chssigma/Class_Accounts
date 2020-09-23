@@ -22,6 +22,7 @@ Angus M.| [amunro93](https://github.com/amunro93) | I've been to Africa
 Christian M. | [cmillar70](https://github.com/cmillar70) | There is nothing fun about me
 Bahiya A. | [baldoor99](https://github.com/baldoor99) | I'm from Baghdad,Iraq
 Isaac H. | [IsaacHuaypuna](https://github.com/IsaacHuaypuna) | I went to South America over the summer 2 years ago.
+Conrad H. | [cheins48](https://github.com/cheins48) | I have been to 90+ live phish shows.
 Frank M.  | .[fmyhre77](https://github.com/fmyhre77) | I am a lifegaurd
 Asadullah F.| [afaqirz67](https://github.com/afaqirz67) | I am a trilingual 
 ## Period 4
@@ -38,6 +39,8 @@ Justyn R.| [ccsjreyes64](https://github.com/ccsjreyes64) | I'm the tallest kid i
 Liam S. | [lschenc41](https://github.com/lschenc41) | I'm half-Swedish
 Max S. |  [msweet53](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | 2 c00l 4 sch00l
 Dylan S. | [dstuken31](https://github.com/dstuken31) | Fear of the number 13 is called triskaidekaphobia.
+John "Bob" K. | [jkammau97](https://github.com/jkammau97) | [DEFGECD](https://youtu.be/A7dLvvbmTPU)
+
 
 ## Period 6
 
@@ -52,7 +55,9 @@ Andrea L.| [Alefkow37](https://github.com/Alefkow37) | I have a twin
 Kaitlyn W. | [kwingfi24](https://github.com/kwingfi24) | I have a sister
 Ari M. | [Amilste16](https://github.com/amilste16) | I can wiggle my ears
 Jacob L. | [jlightb30](https://github.com/jlightb30) | I came into school late today (2/14/2020)
-
+jaelyn L. | [jlynch544](https://github.com/jlynch544)| i like swimming 
+Griffin W.| [gwalts94](https://github.com/gwalts94) | I like basketball 
+Preston B. | [dburton35](https://github.com/dburton35) | I like to play golf
 
 ## Period 7
 
@@ -65,5 +70,10 @@ Akari H. | [ahernan79](http://github.com/ahernan79) | I'm secretly an alien
 Violet C-W | [vcraghe32](https://github.com/vcraghe32) | My name is a color and  a flower
 Aly S. | [aseidma21](https://github.com/aseidma21)| Soccer is my favorite sport
 Watts B. | [wbrown97a](https://github.com/wbrown97a) | I'm colorblind
+Max T. | [mtyree18](https://github.com/mtyree18) | I'm not colorblind
 Nicholas T. | [ntaylor32](https://github.com/ntaylor32) | I'm 3 feet tall
+Elijah L. | [elijahlaury11](https://github.com/Elijahlaury11) | I african and mexican
+Owen L. | [Olindsa32](https://github.com/olindsa32) | I can't think of anythign fun about me
+Evan C. | [ecann07](https://github.com/ecann07) | I will be rich and homeless
+polo H |  [Polohill4](https://github.com/Polohill4) | i rock and rap
 
