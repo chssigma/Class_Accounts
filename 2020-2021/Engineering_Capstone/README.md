@@ -7,3 +7,4 @@ Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like rainbows :rainbow:
 Elijah T. |[etolton49](https://github.com/etolton49) | I like the outdoors
+David W. |[david-wiles6](https://github.com/david-wiles6)| I like astrophotography
