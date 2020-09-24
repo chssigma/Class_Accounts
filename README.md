@@ -1,5 +1,3 @@
-# Class_Accounts
+# CHS Engineering Class Accounts
 
-All Engineering students at CHS have GitHub accounts.  And here they are :)
-
-Students, please navigate to your year & engineering level, and please add yourself to that readme.
+Just select a year and then a class to find student account links.
