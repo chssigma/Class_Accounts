@@ -1,3 +1,1 @@
-# Class_Accounts
-
-All Engineering students at CHS have GitHub accounts.  And here they are :)
+$ git clone https://github.com/pguiffr62/Class_Accounts.git
