@@ -30,6 +30,7 @@ Olivia P. | [opember44](https://github.com/opember44) | I play soccer.
 Luuk S. | [lspence40](https://github.com/lspence40) | I am definitley a real human being and not a sentient virus.
 Anthony S. | [ashipp98](https://github.com/ashipp98) | I like Call Of Duty
 Seth C. | [scollie86](https://github.com/scollie86) | I was born in Clemson
+Said O. | [sosman83](https://github.com/sosman83) | I'm a 2 time state champ in soccer.
 
 
 ## Period 3
@@ -44,7 +45,7 @@ Deo M. | [dmagar27](https://github.com/dmagar27) | I like turtles
 Rowan M. | [rmiller85](https://github.com/rmiller85) | The air-speed velocity of an unladen swallow depends on the type of swallow.
 Aiden L. | [alewand78](https://github.com/alewand78) | I play lacrosse.
 Ghislain V.| [gventre04](https://github.com/gventre04)| Won states with the CHS soccer team
-Ortiz - Duran E. | [eortizd29](https;//github.com/eortizd29)| 10/21/19 is the day
+Ortiz - Duran E. | [eortizd29](https://github.com/eortizd29)| 10/21/19 is the day 
 Lily W. | [lwielar29](https://github.com/lwielar29)| I think I accidently deleted the directions on this nano thing
 Piper G.| [pguiffr62](https://github.com/pguiffr62)| I have a dog. 
 Abdell Y.| [ayahya70](https://github.com/ayahya70)| I was born in Egypt and I LOVE SOCCER.
@@ -60,7 +61,7 @@ Graham L. | [glenert41](https://github.com/glenert41) | Spain is smaller than al
 Owen M. | [omckenn37](https://github.com/omckenn37) | I enjoy the activity of playing soccer.
 Jude F. | [jfairch81](https://github.com/jfairch81) | I like to play basketball with my friends
 Camden B. | [CamdenBaucom](https://github.com/CamdenBaucom) | I was born in Durham, North Carolina
-Grady G. | [ggilmor66](https://https://github.com/ggilmor66) | I enjoying playing lacrosse.
+Grady G. | [ggilmor66](https://github.com/ggilmor66) | I enjoying playing lacrosse.
 Meg G. | [mgist56](https://github.com/mgist56) | I play the flute.
 River M. | [rmalia13](https://github.com/rmalia13) | I like pie.
 Elisabeth S. |[escharf72](https://github.com/escharf72) | I was born in New York City.
