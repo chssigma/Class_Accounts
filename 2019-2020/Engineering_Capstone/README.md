@@ -5,6 +5,7 @@ Add your name (First name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I was born in El Paso, TX
+Vaughn W. | [vaughnw128](https://github.com/vaughnw128) | Professional highschooler, amateur chef
 Amara G. | [agreen09](https://github.com/agreen09) | I can't think of any fun facts
 Alex R. | [aralsto](https://github.com/aralsto) | I'm vegan btw
 Jonah N. | [jnewman59](https://github.com/jnewman59) | I enjoy [puzzle](http://hunt.mathcamp.org/puzzles/2019/snake_shack/threadsnake/) hunts
@@ -16,3 +17,4 @@ Barrett C. | [bcrussin](https://github.com/bcrussin) | I program browser games i
 Claire M. | [cmunro97](https://github.com/cmunro97) | I like mac and cheese
 Gabby W. | [jorgeraspberrypi](github.com/jorgeraspberrypi) | My favorite animal is a pig
 Adela C. |[adelacervantes](https://github.com/adelacervantes)| proudly plant fueled as well
+Peter M. |[Peter-Manto](https://github.com/Peter-Manto)| same ^
