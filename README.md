@@ -3,4 +3,6 @@
 They're all here.
 
 :octocat:
-Asadullah F | [afaqirz67]github.com/afaqirz67 | I like wrestling :wrestling: 
+
+Just select a year and then a class to find student account links.
+
