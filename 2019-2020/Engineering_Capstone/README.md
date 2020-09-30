@@ -17,3 +17,4 @@ Barrett C. | [bcrussin](https://github.com/bcrussin) | I program browser games i
 Claire M. | [cmunro97](https://github.com/cmunro97) | I like mac and cheese
 Gabby W. | [jorgeraspberrypi](github.com/jorgeraspberrypi) | My favorite animal is a pig
 Adela C. |[adelacervantes](https://github.com/adelacervantes)| proudly plant fueled as well
+Peter M. |[Peter-Manto](https://github.com/Peter-Manto)| same ^
