@@ -17,3 +17,4 @@ Reece M. | [Rmckee75](https://github.com/rmckee75) |I like to run fast for long 
 Asha G. | [agupta88ccs](https://github.com/agupta88) | I like to dance. 
 Imogen A. | [Iarmstr81](https://github.com/iarmstr81) | I hate cocomut
 Elisabeth S. |[escharf72](https://github.com/escharf72) | I play the viola :violin: 
+Meg G. |[mgist56](https://github.com/mgist56) | I play the flute and I love dragons! :dragon_face:
