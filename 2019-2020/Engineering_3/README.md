@@ -71,3 +71,4 @@ Kaymin H. | [khester35](https://github.com/khester35) | I play violin.
 Seanan S. | [sshanks49](https://github.com/sshanks49) | I have a black belt in karate
 Nico S. | [nsun94](https://github.com/nsun94) | I like to fish 
 Katherine M.| [kmcgrat28](https://github.com/kmcgrat28)| I'm really tall, but I don't wear men's size 13 Nikes.
+Philip B. | [pbreeb40](https://github.com/pbreen40)| My favorite underground rapper is probably Lil Peep.
