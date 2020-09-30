@@ -12,3 +12,4 @@ Julia B | [jbailey24](https://github.com/jbailey24) | I fence
 Luke F. | [lfrank01](https://github.com/lfrank01) | I like tennis :tennis:
 Amarie A. | [aanders12](https://github.com/aanders12) | I really like movies
 Harriet N. | [hnovak94](https://github.com/hnovak94) | I like to read
+Violet CW | [vcraghe32](https://github.com/vcraghe32)| My name is a flower and a color
