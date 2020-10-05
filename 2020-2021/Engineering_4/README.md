@@ -19,3 +19,4 @@ Imogen A. | [Iarmstr81](https://github.com/iarmstr81) | I hate cocomut
 Elisabeth S. |[escharf72](https://github.com/escharf72) | I play the viola :violin: 
 Meg G. |[mgist56](https://github.com/mgist56) | I play the flute and I love dragons! :dragon_face:
 Katherine M.  |[kmcgrat28](https://github.com/kmcgrat28) | I like Turtles
+Piper G. |[pguiffr62](https://github.com/pguiffr62) | Max helped me do this assignment and I do art
