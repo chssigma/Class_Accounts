@@ -2,6 +2,11 @@
 
 Add your name (first name, last initial), github username (with a link), and a fun fact about you.
 
+## 1st Period - Mr. Helmstetter
+Name | Username | Fun Fact
+--- | --- | ---
+Will K | [Willhk10](https://github.com/willhk10) | I like swimming :)
+
 ## 3rd Period - Dr. Shields
 Name | Username | Fun Fact
 --- | --- | ---
