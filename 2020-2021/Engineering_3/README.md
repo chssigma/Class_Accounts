@@ -2,6 +2,7 @@
 
 Add your name (first name, last initial), github username (with a link), and a fun fact about you.
 
+Bob K.|[jkammau97](https://github.com/jkammau97)| I have a tendency to overcomplicate things...XD
 ## 3rd Period - Dr. Shields
 Name | Username | Fun Fact
 --- | --- | ---
