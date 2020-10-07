@@ -6,3 +6,12 @@ Add your name (first name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like rockets :rocket:
+
+## Period 6
+Name | Username | Fun Fact
+--- | --- | ---
+
+
+## Period 7
+Name | Username | Fun Fact
+--- | --- | ---
