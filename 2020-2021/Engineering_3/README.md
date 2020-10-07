@@ -12,7 +12,7 @@ Isaac H. |[IsaacHuaypuna](https://github.com/isaacHuaypuna | I like playing vide
 Hank P| [hdpow](https://github.com/hdpow) | I like video games :video_game:
 Alden D. | [adent11](https://github.com/adent11) | I have held my breath for over 3:00
 Evan C.|[ecann07](https://github.com/ecann07)| I like riding my bike 
-
+Loren L. | [llemarr42](https://github.com/llemarr42) | I like playing board games
 
 ## 3rd Period - Dr. Shields
 Name | Username | Fun Fact
