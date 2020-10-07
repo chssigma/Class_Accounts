@@ -15,3 +15,4 @@ Name | Username | Fun Fact
 ## Period 7
 Name | Username | Fun Fact
 --- | --- | ---
+Wes S. | [Wswanso44](https://github.com/wswanso44) | I like cross country
