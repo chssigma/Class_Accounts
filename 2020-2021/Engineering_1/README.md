@@ -16,3 +16,4 @@ Name | Username | Fun Fact
 Name | Username | Fun Fact
 --- | --- | ---
 Cooper M. | [Cooper-Moreland](https://github.com/Cooper-Moreland) | I play soccer
+Lulu J. | [ljennin23](https://github.com/ljennin23) | I broke my arm in kindergarten
