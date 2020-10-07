@@ -22,3 +22,4 @@ Amarie A. | [aanders12](https://github.com/aanders12) | I really like movies
 Harriet N. | [hnovak94](https://github.com/hnovak94) | I like to read
 Violet CW | [vcraghe32](https://github.com/vcraghe32)| My name is a flower and a color
 Max S | [msweet53](https://github.com/msweet53)| I play trumpet
+Max T. | [mtyree18](https://github.com/mtyree18) | I like nature :palm_tree:
