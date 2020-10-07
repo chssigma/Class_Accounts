@@ -5,9 +5,9 @@ Add your name (first name, last initial), github username (with a link), and a f
 ## 1st Period - Mr. Helmstetter
 Name | Username | Fun Fact
 --- | --- | ---
-Will K | [Willhk10](https://github.com/willhk10) | I like swimming :)
+Will K | [willhk10](https://github.com/willhk10) | I like swimming :)
 Bob K.|[jkammau97](https://github.com/jkammau97)| I have a tendency to overcomplicate things...XD
-Sean L. | [BigSean](https://github.com/slynch66) | I like playing football :football:
+Sean L. | [slynch66](https://github.com/slynch66) | I like playing football :football:
 
 ## 3rd Period - Dr. Shields
 Name | Username | Fun Fact
