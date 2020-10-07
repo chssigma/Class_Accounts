@@ -11,6 +11,7 @@ Sean L. | [BigSean](https://github.com/slynch66) | I like playing football :foot
 Isaac H. |[IsaacHuaypuna](https://github.com/isaacHuaypuna | I like playing video games
 Hank P| [hdpow](https://github.com/hdpow) | I like video games :video_game:
 Alden D. | [adent11](https://github.com/adent11) | I have held my breath for over 3:00
+Evan C.|[ecann07](https://github.com/ecann07)| I like riding my bike 
 
 
 ## 3rd Period - Dr. Shields
