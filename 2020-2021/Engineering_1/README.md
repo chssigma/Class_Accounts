@@ -15,3 +15,4 @@ Name | Username | Fun Fact
 ## Period 7
 Name | Username | Fun Fact
 --- | --- | ---
+Cooper M. | [Cooper-Moreland](https://github.com/Cooper-Moreland) | I play soccer
