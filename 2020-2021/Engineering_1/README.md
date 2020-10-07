@@ -17,5 +17,4 @@ Name | Username | Fun Fact
 --- | --- | ---
 Cooper M. | [Cooper-Moreland](https://github.com/Cooper-Moreland) | I play soccer
 Chris P.| [Chris-Procino](https://github.com/Chris-Procino) | will build a rocket and steal the moon :rocket:
-Lulu J. | [ljennin23](https://github.com/ljennin23) | I broke my arm in kindergarten
-
+Connor D. | [Connor- Davis](https://github.com/Connor-Davis) | i want to explore the uneverse and get away from the earth :rocket:
