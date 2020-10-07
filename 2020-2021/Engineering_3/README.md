@@ -8,6 +8,7 @@ Name | Username | Fun Fact
 Will K | [willhk10](https://github.com/willhk10) | I like swimming :)
 Bob K.|[jkammau97](https://github.com/jkammau97)| I have a tendency to overcomplicate things...XD
 Sean L. | [BigSean](https://github.com/slynch66) | I like playing football :football:
+Lucas F. | [lfuller20](https://github.com/lfuller20) | I love playing soccer :soccer:
 Isaac H. |[IsaacHuaypuna](https://github.com/isaacHuaypuna | I like playing video games
 Hank P| [hdpow](https://github.com/hdpow) | I like video games :video_game:
 Alden D. | [adent11](https://github.com/adent11) | I have held my breath for over 3:00
