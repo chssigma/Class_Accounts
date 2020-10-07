@@ -1,7 +1,7 @@
 # Engineering 3
 
 Add your name (first name, last initial), github username (with a link), and a fun fact about you.
-
+Sean L. | [BigSean](https://github.com/slynch66) | I like playing football :football:
 ## 3rd Period - Dr. Shields
 Name | Username | Fun Fact
 --- | --- | ---
