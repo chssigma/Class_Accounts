@@ -8,7 +8,7 @@ Name | Username | Fun Fact
 Will K | [Willhk10](https://github.com/willhk10) | I like swimming :)
 Bob K.|[jkammau97](https://github.com/jkammau97)| I have a tendency to overcomplicate things...XD
 Sean L. | [BigSean](https://github.com/slynch66) | I like playing football :football:
-Dylan H. | [OstrichIsYum](https://github.com/OstichIsYum) | I like Prison art...¯\_(ツ)_/¯
+Dylan H. | [OstrichIsYum](https://github.com/OstichIsYum) | I like Prison art...¯\_(ツ)_/¯ 
 
 ## 3rd Period - Dr. Shields
 Name | Username | Fun Fact
