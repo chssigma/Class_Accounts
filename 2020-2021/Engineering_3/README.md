@@ -8,6 +8,7 @@ Name | Username | Fun Fact
 Will K | [Willhk10](https://github.com/willhk10) | I like swimming :)
 Bob K.|[jkammau97](https://github.com/jkammau97)| I have a tendency to overcomplicate things...XD
 Sean L. | [BigSean](https://github.com/slynch66) | I like playing football :football:
+Alden D. | [adent11](https://github.com/adent11) | I have held my breath for over 3:00
 
 ## 3rd Period - Dr. Shields
 Name | Username | Fun Fact
