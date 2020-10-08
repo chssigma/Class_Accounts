@@ -18,6 +18,7 @@ Reece Hagy | [rhagy82](https://github.com/rhagy82) | I like to play basketball
 Josie M.|[jmuss07](https://github.com/jmuss07) | Hahahaha imagine having a fun fact (I have a pet frog)
 Rafael A. |[rareval48](https://github.com/rareval48) | I dont like pizza
 Ian N.|[inovotn04](https://github.com/inovotn04) | My initials spell my name
+Nasir L. |[nlindsa81](https://github.com/nlindsa81) | My initials spell my name
 
 ## 4th Period - Mr. Helmstetter
 Name | Username | Fun Fact
