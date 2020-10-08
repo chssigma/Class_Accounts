@@ -26,4 +26,5 @@ Ian N. | [inovotn04](https://github.com/inovotn04) | My initials spell my name
 Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodile:
+Nathaniel M. | [nmckee78](https://github.com/nmckee78) | I like the smell of vinegar. 
 
