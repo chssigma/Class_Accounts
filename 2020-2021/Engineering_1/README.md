@@ -16,6 +16,12 @@ Name | Username | Fun Fact
 Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator, and no longer recommend it. :crocodile:
+Leo K. | [lkuhlma22](https://github.com/lkuhlma22) | I hate sushi:
+Gunnar B. | [gbiller01](https://github.com/gbiller01) |I like cars.
+Asish T. | [atamang62](https://github.com/atamang62) | I don’t like pizza.
+
+
+
 
 
 ## Period 7
