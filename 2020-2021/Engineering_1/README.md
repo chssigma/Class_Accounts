@@ -19,6 +19,14 @@ Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator,
 Leo K. | [lkuhlma22](https://github.com/lkuhlma22) | I hate sushi:
 Gunnar B. | [gbiller01](https://github.com/gbiller01) |I like cars.
 Asish T. | [atamang62](https://github.com/atamang62) | I don’t like pizza.
+Joseph S. | [jslatos85](https://github.com/jslatos85) | I have spent an abusive amount of time playing Destiny 2
+Quinn S. | [qsmith98](https://github.com/qsmith98) | I am colorblind :fist_left: :punch: :fist_right:
+Julian A. | [janders95](https://github.com/Janders95) | I don't like steak
+Jahiem D | [jdillar78](https://github.com/jdillar78) | I like commentating
+Dylan T. | [dtracy50](https://github.com/dtracy50) | I have a dog
+
+
+
 
 
 
