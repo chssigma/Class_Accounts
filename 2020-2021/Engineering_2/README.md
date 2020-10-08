@@ -27,3 +27,4 @@ Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodile:
 
+Jony L. | .[jlopezc28](https://github.com/jlopezc28) | I love to skate
