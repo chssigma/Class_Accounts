@@ -9,5 +9,15 @@ Matt S. | [Reditect-Logan-Martin](https://github.com/DoctorShields) | I like piz
 
 ## 2nd Period - Mr. Helmstetter
 Name | Username | Fun Fact
-Logan| [DoctorShields](https://github.com/Reditect-Logan-Martin) | I like rice
+--- | --- | ---
+Logan Martin| [Logan-Martin](https://github.com/Reditect-Logan-Martin) | I like rice
+Eh hso | [ether63](https://github.com/ether63) | I like  to play soccer:
+Max T. |[mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
+Anthony M. |[AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love soccer
+Reece Hagy | [rhagy82](https://github.com/rhagy82) | I like to play basketball 
+Josie M.|[jmuss07](https://github.com/jmuss07) | Hahahaha imagine having a fun fact (I have a pet frog)
+
+## 4th Period - Mr. Helmstetter
+Name | Username | Fun Fact
+--- | --- | ---
 
