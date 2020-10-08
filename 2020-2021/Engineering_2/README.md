@@ -30,13 +30,13 @@ Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator 
 Mariam S. | [msadat50](https://github.com/msadat50) | like playing soccer,drawing and reading books.
 Jason M. | [Jmarshm76](https://github.com/Jmarshm76) | I once stayed up so long playing Red Dead Redemption 2 I started talking to myself.  
 Zhivan F. | [Zfloren98](https://github.com/Zfloren98) | I've lived in fourteen different houses.
-Devon J.  | [djohnso88].(https://github.com/djohnso88) | I've been to florida.
+Devon J.  | [djohnso88](https://github.com/djohnso88) | I've been to florida.
 Jony L. | [jlopezc28](https://github.com/jlopezc28) | I love to skate
 Henry H. | [hheisig51](https://github.com/hheisig51) | You are over 1,098% more likely to be killed by fireworks :firecracker: than sharks :shark:
 Callan S. | [Csmith29](https://github.com/Csmith29) | I do gymnastics
 Asher F. | [Afriedm49](https://github.com/afriedm49) | My favorite food is sushi
 Nathaniel M. | [nmckee78](https://github.com/nmckee78) | I like the smell of vinegar. 
-Aidan S. | [ashanks70](https://github.com/Ashanks70 |Cats are the best animals!:cat:
+Aidan S. | [ashanks70](https://github.com/Ashanks70) |Cats are the best animals!:cat:
 Jony L. | [jlopezc28](https://github.com/jlopezc28) | I love to skate
 Shrey P. | [Shrey45](https://github.com/Shrey45) | I like whipped cream
 Ellen L. | [Elynch78](https://github.com/Elynch78) | I play volleyball and like to run
