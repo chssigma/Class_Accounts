@@ -24,6 +24,9 @@ Quinn S. | [qsmith98](https://github.com/qsmith98) | I am colorblind :fist_left:
 Julian A. | [janders95](https://github.com/Janders95) | I don't like steak
 Jahiem D | [jdillar78](https://github.com/jdillar78) | I like commentating
 Dylan T. | [dtracy50](https://github.com/dtracy50) | I have a dog
+Vincent M. | [vmanka25](https://github.com/vmanka25) | I like snowboarding
+Marco A. | [mlopezs05](https://github.com/gbiller01) | I like to cook.
+Deonit R. | [droshaj62](https://github.com/droshaj62) | I like basketball, and im lazy
 
 
 
