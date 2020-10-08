@@ -10,6 +10,6 @@ Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like pizza :pizz
 ## 2nd Period - Mr. Helmstetter
 Name | Username | Fun Fact
 --- | --- | ---
-max |[mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
+Max T. |[mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
 
 
