@@ -42,3 +42,4 @@ Aidan S. |[ashanks70](https://github.com/Ashanks70 |Cats are the best animals!:c
 Jony L. | .[jlopezc28](https://github.com/jlopezc28) | I love to skate
 Zhivan F. | [Zfloren98](https://github.com/Zfloren98) | I've lived in fourteen different houses.
 Shrey P. | [Shrey45](https://github.com/Shrey45) | I like whipped cream
+Andrew D. | [Adicesa05](https://github.com/Adicesa05) | I can solve a rubik's cube while drinking Arizona tea.
