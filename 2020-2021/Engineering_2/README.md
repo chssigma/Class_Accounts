@@ -9,3 +9,5 @@ Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like pizza :pizz
 
 ## 2nd Period - Mr. Helmstetter
 Name | Username | Fun Fact
+
+Logan M. | [lmcmind85](https://github.com/lmcmind85) | I wresltle 
