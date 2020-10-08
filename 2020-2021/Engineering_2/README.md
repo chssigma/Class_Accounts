@@ -13,3 +13,6 @@ Name | Username | Fun Fact
 Max T. |[mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
 
 
+## 4th Period - Mr. Helmstetter
+Name | Username | Fun Fact
+--- | --- | ---
