@@ -11,6 +11,7 @@ Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like pizza :pizz
 Name | Username | Fun Fact
 --- | --- | ---
 Max T. |[mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
+Aidan Y. |[ayates67](https://github.com/ayates67) | I like to play basketball
 
 
 ## 4th Period - Mr. Helmstetter
