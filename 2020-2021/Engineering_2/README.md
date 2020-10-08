@@ -16,6 +16,7 @@ Max T. |[mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke t
 Anthony M. |[AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love soccer
 Reece Hagy | [rhagy82](https://github.com/rhagy82) | I like to play basketball 
 Josie M.|[jmuss07](https://github.com/jmuss07) | Hahahaha imagine having a fun fact (I have a pet frog)
+Rafael A. |[rareval48](https://github.com/rareval48) | I dont like pizza
 Ian N.|[inovotn04](https://github.com/inovotn04) | My initials spell my name
 
 ## 4th Period - Mr. Helmstetter
