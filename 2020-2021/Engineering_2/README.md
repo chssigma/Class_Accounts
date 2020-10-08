@@ -13,7 +13,7 @@ Name | Username | Fun Fact
 Max T. |[mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
 Reece Hagy | [rhagy82](https://github.com/rhagy82) | I like to play basketball 
 Josie M.|[jmuss07](https://github.com/jmuss07) | Hahahaha imagine having a fun fact (I have a pet frog)
-
+Ian N.|[inovotn04](https://github.com/inovotn04) | My initials spell my name
 
 ## 4th Period - Mr. Helmstetter
 Name | Username | Fun Fact
