@@ -39,9 +39,10 @@ Callan S. | [Csmith29](https://github.com/Csmith29) | I do gymnastics
 Asher F. | [Afriedm49](https://github.com/afriedm49) | My favorite food is sushi
 Nathaniel M. | [nmckee78](https://github.com/nmckee78) | I like the smell of vinegar. 
 Aidan S. |[ashanks70](https://github.com/Ashanks70 |Cats are the best animals!:cat:
-Jony L. | .[jlopezc28](https://github.com/jlopezc28) | I love to skate
+Jony L. | [jlopezc28](https://github.com/jlopezc28) | I love to skate
 Zhivan F. | [Zfloren98](https://github.com/Zfloren98) | I've lived in fourteen different houses.
 Shrey P. | [Shrey45](https://github.com/Shrey45) | I like whipped cream
 Ellen L. | [Elynch78](https://github.com/Elynch78) | I play volleyball and like to run
 Malachi P. | .[mpascha61](https://github.com/mpascha61) | I don't like peppermint.
 Andrew D. | [Adicesa05](https://github.com/Adicesa05) | I can solve a rubik's cube while drinking Arizona tea.
+Jamil M. | [jamilmccollough](https://github.com/jamilmccollough) | I am one of four brothers.
