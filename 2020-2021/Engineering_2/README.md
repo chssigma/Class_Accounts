@@ -28,6 +28,6 @@ Ian N. | [inovotn04](https://github.com/inovotn04) | My initials spell my name
 Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodile:
-Aidan S. |[ashanks70](https://github.com/Ashanks70 |Cats are the best animals!:cat:
 Jony L. | .[jlopezc28](https://github.com/jlopezc28) | I love to skate
 Zhivan F. | [Zfloren98](https://github.com/Zfloren98) | I've lived in fourteen different houses.
+Henry H. | [hheisig51](https://github.com/hheisig51) | You are over 1,098% more likely to be killed by fireworks :firecracker: than sharks :shark:
