@@ -20,14 +20,11 @@ Anthony M. | [AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love 
 Reece Hagy | [rhagy82](https://github.com/rhagy82) | I like to play basketball 
 Josie M. | [jmuss07](https://github.com/jmuss07) | Hahahaha imagine having a fun fact (I have a pet frog)
 Rafael A. |[rareval48](https://github.com/rareval48) | I dont like pizza
-Ian N.|[inovotn04](https://github.com/inovotn04) | My initials spell my name
-Nasir L. |[nlindsa81](https://github.com/nlindsa81) | My nickname is Nas
 Ian N. | [inovotn04](https://github.com/inovotn04) | My initials spell my name
 
 ## 4th Period - Mr. Helmstetter
 Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodile:
-Aidan S. |[ashanks70](https://github.com/Ashanks70 |Cats are the best animals!:cat:
-Jony L. | .[jlopezc28](https://github.com/jlopezc28) | I love to skate
 Zhivan F. | [Zfloren98](https://github.com/Zfloren98) | I've lived in fourteen different houses.
+Devon J.  | .[djohnso88].(https://github.com/djohnso88) | I've been to florida.
