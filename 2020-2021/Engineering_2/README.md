@@ -43,3 +43,4 @@ Ellen L. | [Elynch78](https://github.com/Elynch78) | I play volleyball and like 
 Malachi P. | [mpascha61](https://github.com/mpascha61) | I don't like peppermint.
 Andrew D. | [Adicesa05](https://github.com/Adicesa05) | I can solve a rubik's cube while drinking Arizona tea.
 Jamil M. | [jamilmccollough](https://github.com/jamilmccollough) | I am one of four brothers.
+Avery P. | [apleasa54](https://github.com/apleasa54 | I have a twin brother.
