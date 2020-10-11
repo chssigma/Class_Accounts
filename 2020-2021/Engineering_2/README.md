@@ -6,12 +6,13 @@ Add your name (first name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like pizza :pizza:
-Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodile:
+Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodil
 
 
 ## 2nd Period - Mr. Helmstetter
 Name | Username | Fun Fact
 --- | --- | ---
+Jai A. | [jaust80](https://github.com/jaust80) | I have 6 pets
 max |[mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
 Paul S. | [pschake34](https://github.com/pschake34) | I use linux 
 Logan McMindes. | [lmcmind85](https://github.com/lmcmind85) | I wrestle 
