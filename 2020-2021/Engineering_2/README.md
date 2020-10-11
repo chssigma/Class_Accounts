@@ -6,12 +6,16 @@ Add your name (first name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like pizza :pizza:
-Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodile:
+Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodil
 
 
 ## 2nd Period - Mr. Helmstetter
 Name | Username | Fun Fact
 --- | --- | ---
+Jai A. | [jaust80](https://github.com/jaust80) | I have 6 pets
+max |[mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
+Paul S. | [pschake34](https://github.com/pschake34) | I use linux 
+Logan McMindes. | [lmcmind85](https://github.com/lmcmind85) | I wrestle 
 Logan Martin | [Logan-Martin](https://github.com/Reditect-Logan-Martin) | I like rice
 Eh hso | [ether63](https://github.com/ether63) | I like  to play soccer:
 Max T. | [mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
@@ -26,7 +30,6 @@ Nasir L. |[nlindsa81](https://github.com/nlindsa81) | My nickname is Nas
 ## 4th Period - Mr. Helmstetter
 Name | Username | Fun Fact
 --- | --- | ---
-Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodile:
 Mariam S. | [msadat50](https://github.com/msadat50) | like playing soccer,drawing and reading books.
 Jason M. | [Jmarshm76](https://github.com/Jmarshm76) | I once stayed up so long playing Red Dead Redemption 2 I started talking to myself.  
 Zhivan F. | [Zfloren98](https://github.com/Zfloren98) | I've lived in fourteen different houses.
