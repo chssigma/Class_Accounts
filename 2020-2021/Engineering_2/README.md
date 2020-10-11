@@ -6,7 +6,44 @@ Add your name (first name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like pizza :pizza:
-Jai A. | [jaust80](https://github.com/jaust80) | I have 6 pets
+Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodil
+
 
 ## 2nd Period - Mr. Helmstetter
 Name | Username | Fun Fact
+--- | --- | ---
+Jai A. | [jaust80](https://github.com/jaust80) | I have 6 pets
+max |[mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
+Paul S. | [pschake34](https://github.com/pschake34) | I use linux 
+Logan McMindes. | [lmcmind85](https://github.com/lmcmind85) | I wrestle 
+Logan Martin | [Logan-Martin](https://github.com/Reditect-Logan-Martin) | I like rice
+Eh hso | [ether63](https://github.com/ether63) | I like  to play soccer:
+Max T. | [mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
+Aidan Y. | [ayates67](https://github.com/ayates67) | I like to play basketball
+Anthony M. | [AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love soccer
+Reece Hagy | [rhagy82](https://github.com/rhagy82) | I like to play basketball 
+Josie M. | [jmuss07](https://github.com/jmuss07) | Hahahaha imagine having a fun fact (I have a pet frog)
+Rafael A. |[rareval48](https://github.com/rareval48) | I dont like pizza
+Ian N. | [inovotn04](https://github.com/inovotn04) | My initials spell my name
+Nasir L. |[nlindsa81](https://github.com/nlindsa81) | My nickname is Nas
+
+## 4th Period - Mr. Helmstetter
+Name | Username | Fun Fact
+--- | --- | ---
+Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodile:
+Mariam S. | [msadat50](https://github.com/msadat50) | like playing soccer,drawing and reading books.
+Jason M. | [Jmarshm76](https://github.com/Jmarshm76) | I once stayed up so long playing Red Dead Redemption 2 I started talking to myself.  
+Zhivan F. | [Zfloren98](https://github.com/Zfloren98) | I've lived in fourteen different houses.
+Devon J.  | [djohnso88](https://github.com/djohnso88) | I've been to florida.
+Jony L. | [jlopezc28](https://github.com/jlopezc28) | I love to skate
+Henry H. | [hheisig51](https://github.com/hheisig51) | You are over 1,098% more likely to be killed by fireworks :firecracker: than sharks :shark:
+Callan S. | [Csmith29](https://github.com/Csmith29) | I do gymnastics
+Asher F. | [Afriedm49](https://github.com/afriedm49) | My favorite food is sushi
+Nathaniel M. | [nmckee78](https://github.com/nmckee78) | I like the smell of vinegar. 
+Aidan S. | [ashanks70](https://github.com/Ashanks70) |Cats are the best animals!:cat:
+Jony L. | [jlopezc28](https://github.com/jlopezc28) | I love to skate
+Shrey P. | [Shrey45](https://github.com/Shrey45) | I like whipped cream
+Ellen L. | [Elynch78](https://github.com/Elynch78) | I play volleyball and like to run
+Malachi P. | [mpascha61](https://github.com/mpascha61) | I don't like peppermint.
+Andrew D. | [Adicesa05](https://github.com/Adicesa05) | I can solve a rubik's cube while drinking Arizona tea.
+Jamil M. | [jamilmccollough](https://github.com/jamilmccollough) | I am one of four brothers.
