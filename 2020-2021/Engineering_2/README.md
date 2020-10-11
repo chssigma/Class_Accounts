@@ -11,8 +11,9 @@ Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator 
 
 ## 2nd Period - Mr. Helmstetter
 Name | Username | Fun Fact
-
 --- | --- | ---
+max |[mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
+Paul S. | [pschake34](https://github.com/pschake34) | I use linux 
 Logan McMindes. | [lmcmind85](https://github.com/lmcmind85) | I wrestle 
 Logan Martin | [Logan-Martin](https://github.com/Reditect-Logan-Martin) | I like rice
 Eh hso | [ether63](https://github.com/ether63) | I like  to play soccer:
@@ -45,4 +46,3 @@ Ellen L. | [Elynch78](https://github.com/Elynch78) | I play volleyball and like 
 Malachi P. | [mpascha61](https://github.com/mpascha61) | I don't like peppermint.
 Andrew D. | [Adicesa05](https://github.com/Adicesa05) | I can solve a rubik's cube while drinking Arizona tea.
 Jamil M. | [jamilmccollough](https://github.com/jamilmccollough) | I am one of four brothers.
-
