@@ -30,7 +30,6 @@ Nasir L. |[nlindsa81](https://github.com/nlindsa81) | My nickname is Nas
 ## 4th Period - Mr. Helmstetter
 Name | Username | Fun Fact
 --- | --- | ---
-Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodile:
 Mariam S. | [msadat50](https://github.com/msadat50) | like playing soccer,drawing and reading books.
 Jason M. | [Jmarshm76](https://github.com/Jmarshm76) | I once stayed up so long playing Red Dead Redemption 2 I started talking to myself.  
 Zhivan F. | [Zfloren98](https://github.com/Zfloren98) | I've lived in fourteen different houses.
@@ -47,3 +46,4 @@ Ellen L. | [Elynch78](https://github.com/Elynch78) | I play volleyball and like 
 Malachi P. | [mpascha61](https://github.com/mpascha61) | I don't like peppermint.
 Andrew D. | [Adicesa05](https://github.com/Adicesa05) | I can solve a rubik's cube while drinking Arizona tea.
 Jamil M. | [jamilmccollough](https://github.com/jamilmccollough) | I am one of four brothers.
+Avery P. | [apleasa54](https://github.com/apleasa54 | I have a twin brother.
