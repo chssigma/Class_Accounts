@@ -6,7 +6,7 @@ Add your name (first name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like pizza :pizza:
-Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodil
+Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator and no longer recommend this to anyone. :crocodile:
 
 
 ## 2nd Period - Mr. Helmstetter
