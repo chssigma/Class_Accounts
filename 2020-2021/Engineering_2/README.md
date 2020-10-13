@@ -47,3 +47,4 @@ Shrey P. | [Shrey45](https://github.com/Shrey45) | I like whipped cream
 Malachi P. | [mpascha61](https://github.com/mpascha61) | I don't like peppermint.
 Mariam S. | [msadat50](https://github.com/msadat50) | like playing soccer,drawing and reading books.
 Callan S. | [Csmith29](https://github.com/Csmith29) | I do gymnastics
+Ben B.  |  [BenBerthy](https://github.com/BenBerthy) | My name is Ben.
