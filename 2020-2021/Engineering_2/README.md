@@ -22,6 +22,7 @@ Logan Martin | [Logan-Martin](https://github.com/Reditect-Logan-Martin) | I like
 Anthony M. | [AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love soccer
 Josie M. | [jmuss07](https://github.com/jmuss07) | Hahahaha imagine having a fun fact (I have a pet frog)
 Ian N. | [inovotn04](https://github.com/inovotn04) | My initials spell my name
+Avery P. | [apleasa54](https://github.com/apleasa54) | I have a twin brother.
 Paul S. | [pschake34](https://github.com/pschake34) | I use linux 
 Max T. | [mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
 Aidan Y. | [ayates67](https://github.com/ayates67) | I like to play basketball
@@ -41,7 +42,6 @@ Jamil M. | [jamilmccollough](https://github.com/jamilmccollough) | I am one of f
 Nathaniel M. | [nmckee78](https://github.com/nmckee78) | I like the smell of vinegar. 
 Aidan S. | [ashanks70](https://github.com/Ashanks70) |Cats are the best animals!:cat:
 Shrey P. | [Shrey45](https://github.com/Shrey45) | I like whipped cream
-Avery P. | [apleasa54](https://github.com/apleasa54 | I have a twin brother.
 Malachi P. | [mpascha61](https://github.com/mpascha61) | I don't like peppermint.
 Mariam S. | [msadat50](https://github.com/msadat50) | like playing soccer,drawing and reading books.
 Callan S. | [Csmith29](https://github.com/Csmith29) | I do gymnastics
