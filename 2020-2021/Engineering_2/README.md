@@ -32,6 +32,7 @@ Aidan Y. | [ayates67](https://github.com/ayates67) | I like to play basketball
 ## 4th Period - Mr. Helmstetter
 Name | Username | Fun Fact
 --- | --- | ---
+Ben B.  |  [BenBerthy](https://github.com/BenBerthy) | My name is Ben.
 Andrew D. | [Adicesa05](https://github.com/Adicesa05) | I can solve a rubik's cube while drinking Arizona tea.
 Zhivan F. | [Zfloren98](https://github.com/Zfloren98) | I've lived in fourteen different houses.
 Asher F. | [Afriedm49](https://github.com/afriedm49) | My favorite food is sushi
@@ -47,3 +48,4 @@ Shrey P. | [Shrey45](https://github.com/Shrey45) | I like whipped cream
 Malachi P. | [mpascha61](https://github.com/mpascha61) | I don't like peppermint.
 Mariam S. | [msadat50](https://github.com/msadat50) | like playing soccer,drawing and reading books.
 Callan S. | [Csmith29](https://github.com/Csmith29) | I do gymnastics
+Elias Z. | [ezell38](https://github.com/ezell38) | I play soccer 
