@@ -32,6 +32,7 @@ Aidan Y. | [ayates67](https://github.com/ayates67) | I like to play basketball
 ## 4th Period - Mr. Helmstetter
 Name | Username | Fun Fact
 --- | --- | ---
+Ben B.  |  [BenBerthy](https://github.com/BenBerthy) | My name is Ben.
 Andrew D. | [Adicesa05](https://github.com/Adicesa05) | I can solve a rubik's cube while drinking Arizona tea.
 Zhivan F. | [Zfloren98](https://github.com/Zfloren98) | I've lived in fourteen different houses.
 Asher F. | [Afriedm49](https://github.com/afriedm49) | My favorite food is sushi
