@@ -24,3 +24,4 @@ Lukas H. |[lhange42](https://github.com/lhange42) | I like football
 Katherine M.  |[kmcgrat28](https://github.com/kmcgrat28) | I like Turtles
 Piper G. |[pguiffr62](https://github.com/pguiffr62) | Max helped me do this assignment and I do art
 Luuk S. | [lspence40](https://github.com/lspence40) | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Seanan S. | [sshanks49](https://github.com/sshanks49) | I have a black belt
