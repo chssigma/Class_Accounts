@@ -15,3 +15,4 @@ Name | Username | Fun Fact
 ## Period 7
 Name | Username | Fun Fact
 --- | --- | ---
+Joe M | [jmyhre21](https://github.com/jmyhre21) | I have simpsons shoes
