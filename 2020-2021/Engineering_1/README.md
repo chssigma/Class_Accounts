@@ -43,3 +43,4 @@ Halima M. | [Hmohamud21](https://github.com/hmohamud21) | I hate shrimps :shrimp
 Cooper M. | [Cooper-Moreland](https://github.com/Cooper-Moreland) | I play soccer
 Chris P.| [Chris-Procino](https://github.com/Chris-Procino) | will build a rocket and steal the moon :rocket:
 Dominick Cafferillo.| [dcaffer07](https://github.com/dcaffer07) | I play Baseball :baseball:
+Charlie S. | [charliesisson](https://github.com/charliesisson) | I have simpson socks
