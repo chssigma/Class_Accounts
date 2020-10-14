@@ -1,4 +1,4 @@
-# CHS Engineering Class Accounts (Wes Swanson)
+# CHS Engineering Class Accounts
 
 They're all here.
 
