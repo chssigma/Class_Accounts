@@ -1,3 +1,8 @@
-# Class_Accounts
+# CHS Engineering Class Accounts
 
-All Engineering students at CHS have GitHub accounts.  And here they are :)
+They're all here.
+
+:octocat:
+
+Just select a year and then a class to find student account links.
+
