@@ -41,6 +41,6 @@ Connor D. | [Connor- Davis](https://github.com/Connor-Davis) | i want to explore
 Lulu J. | [ljennin23](https://github.com/ljennin23) | I broke my arm in kindergarten
 Halima M. | [Hmohamud21](https://github.com/hmohamud21) | I hate shrimps :shrimp:
 Cooper M. | [Cooper-Moreland](https://github.com/Cooper-Moreland) | I play soccer
-Joe M | [jmyhre21](https://github.com/jmyhre21) | I have simpsons shoes
 Chris P.| [Chris-Procino](https://github.com/Chris-Procino) | will build a rocket and steal the moon :rocket:
 Dominick Cafferillo.| [dcaffer07](https://github.com/dcaffer07) | I play Baseball :baseball:
+Sahana G. | [sgupta70](https://github.com/sgupta70) | I do gymnastics 
