@@ -37,9 +37,17 @@ Dylan T. | [dtracy50](https://github.com/dtracy50) | I have a dog
 ## Period 7
 Name | Username | Fun Fact
 --- | --- | ---
+
+Holden A. | [Haustin71](https://github.com/haustin71) | I freeze up when asked stupid personal questions.
+Dominick Cafferillo.| [dcaffer07](https://github.com/dcaffer07) | I play Baseball :baseball:
 Connor D. | [Connor- Davis](https://github.com/Connor-Davis) | i want to explore the uneverse and get away from the earth :rocket:
+Robel G. | [rgabramedhin93](https://github.com/rgabramedhin93) | I like turtles
+Sahana G. | [sgupta70](https://github.com/sgupta70) | I do gymnastics 
 Lulu J. | [ljennin23](https://github.com/ljennin23) | I broke my arm in kindergarten
+Kathryn L. | [klenert17](https://github.com/klenert17) | I don't do gymnastics 
 Halima M. | [Hmohamud21](https://github.com/hmohamud21) | I hate shrimps :shrimp:
 Cooper M. | [Cooper-Moreland](https://github.com/Cooper-Moreland) | I play soccer
+Joe M | [jmyhre21](https://github.com/jmyhre21) | I have simpsons shoes
 Chris P.| [Chris-Procino](https://github.com/Chris-Procino) | will build a rocket and steal the moon :rocket:
+Charlie S. | [charliesisson](https://github.com/charliesisson) | I have simpson socks
 
