@@ -26,3 +26,4 @@ Piper G. |[pguiffr62](https://github.com/pguiffr62) | Max helped me do this assi
 Luuk S. | [lspence40](https://github.com/lspence40) | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 Seanan S. | [sshanks49](https://github.com/sshanks49) | I have a black belt
 Aiden L. | [Alewand78](https://github.com/alewand78) | I like to play lacrosse.
+Lucas M. | [lmiller87](https://github.com/lmiller87) | I like soccer
