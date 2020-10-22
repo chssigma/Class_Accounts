@@ -19,6 +19,7 @@ Asha G. | [agupta88ccs](https://github.com/agupta88) | I like to dance.
 Imogen A. | [Iarmstr81](https://github.com/iarmstr81) | I hate cocomut
 Zoe D. | [Zdeguzm53](https://github.com/zdeguzm53) | I like swimming
 Elisabeth S. |[escharf72](https://github.com/escharf72) | I play the viola :violin: 
+Olivia P. |[opember44](https://github.com/opember44) | I play soccer.
 Meg G. |[mgist56](https://github.com/mgist56) | I play the flute and I love dragons! :dragon_face:
 Lukas H. |[lhange42](https://github.com/lhange42) | I like football
 Katherine M.  |[kmcgrat28](https://github.com/kmcgrat28) | I like Turtles
