@@ -18,7 +18,7 @@ Jai A. | [jaust80](https://github.com/jaust80) | I have 6 pets
 Reece Hagy | [rhagy82](https://github.com/rhagy82) | I like to play basketball 
 Eh hso | [ether63](https://github.com/ether63) | I like  to play soccer:
 Nasir L. |[nlindsa81](https://github.com/nlindsa81) | My nickname is Nas
-Luka M.|[lmatic73](https:github.com/lmatic73) | Im very tall 
+Luka M.|[luka-ma](https:github.com/luka-ma) | Im very tall 
 Logan McMindes. | [lmcmind85](https://github.com/lmcmind85) | I wrestle 
 Logan Martin | [Logan-Martin](https://github.com/Reditect-Logan-Martin) | I like rice
 Anthony M. | [AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love soccer
