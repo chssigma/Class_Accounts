@@ -8,13 +8,14 @@ Name | Username | Fun Fact
 Evan C.|[ecann07](https://github.com/ecann07)| I like riding my bike 
 Alden D. | [adent11](https://github.com/adent11) | I have held my breath for over 3:00
 Lucas F. | [lfuller20](https://github.com/lfuller20) | I love playing soccer :soccer:
+Dylan H. | [OstrichIsYum](https://github.com/OstichIsYum) | I like Prison art...¯\_(ツ)_/¯ 
 Isaac H. |[IsaacHuaypuna](https://github.com/isaacHuaypuna) | I like playing video games
 Bob K. |[jkammau97](https://github.com/jkammau97)| I have a tendency to overcomplicate things...XD
 Will K | [willhk10](https://github.com/willhk10) | I like swimming :)
 Loren L. | [llemarr42](https://github.com/llemarr42) | I like playing board games
 Sean L. | [BigSean](https://github.com/slynch66) | I like playing football :football:
-Hank P. | [hdpow](https://github.com/hdpow) | I like video games :video_game:
 Ari M.  | [amilste16](https://github.com/amilste16) | I have a frog collection :frog:
+Hank P. | [hdpow](https://github.com/hdpow) | I like video games :video_game:
 
 ## 3rd Period - Dr. Shields
 Name | Username | Fun Fact
