@@ -21,6 +21,7 @@ Hank P. | [hdpow](https://github.com/hdpow) | I like video games :video_game:
 Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like soccer :soccer:
+Conrad H.  | [Cheins48](https://github.com/Cheins48) | i like to make stuff 
 Pieter H. | [phalvor47](https://github.com/phalvor47) | I rode an elephant once
 Amarie A. | [aanders12](https://github.com/aanders12) | I really like movies
 Julia B | [jbailey24](https://github.com/jbailey24) | I fence
@@ -32,3 +33,4 @@ Luke F. | [lfrank01](https://github.com/lfrank01) | I like tennis :tennis:
 Harriet N. | [hnovak94](https://github.com/hnovak94) | I like to read
 Max S | [msweet53](https://github.com/msweet53)| I play trumpet
 Max T. | [mtyree18](https://github.com/mtyree18) | I like nature :palm_tree:
+
