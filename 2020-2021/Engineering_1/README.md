@@ -48,6 +48,7 @@ Kathryn L. | [klenert17](https://github.com/klenert17) | I don't do gymnastics
 Halima M. | [Hmohamud21](https://github.com/hmohamud21) | I hate shrimps :shrimp:
 Cooper M. | [Cooper-Moreland](https://github.com/Cooper-Moreland) | I play soccer
 Joe M | [jmyhre21](https://github.com/jmyhre21) | I have simpsons shoes
+Sethaun N. | [Snowell99](https://github.com/snowell99) | I have a baby Guinea Pig 
 Chris P.| [Chris-Procino](https://github.com/Chris-Procino) | will build a rocket and steal the moon :rocket:
 Charlie S. | [charliesisson](https://github.com/charliesisson) | I have simpson socks
 
