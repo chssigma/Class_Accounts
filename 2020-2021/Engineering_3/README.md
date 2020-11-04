@@ -5,6 +5,7 @@ Add your name (first name, last initial), github username (with a link), and a f
 ## 1st Period - Mr. Helmstetter
 Name | Username | Fun Fact
 --- | --- | ---
+Nicole A. | [NikyA777](https://github.com/NikyA777) | I know more than you realize!
 Evan C.|[ecann07](https://github.com/ecann07)| I like riding my bike 
 Alden D. | [adent11](https://github.com/adent11) | I have held my breath for over 3:00
 Lucas F. | [lfuller20](https://github.com/lfuller20) | I love playing soccer :soccer:
