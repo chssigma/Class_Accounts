@@ -38,7 +38,7 @@ Dylan T. | [dtracy50](https://github.com/dtracy50) | I have a dog
 Name | Username | Fun Fact
 --- | --- | ---
 Holden A. | [Haustin71](https://github.com/haustin71) | I freeze up when asked stupid personal questions.
-Jabari B. | [Jbright](https://github.com/Jbright) | 
+Jabari B. | [Jbright91](https://github.com/Jbright91) | I play Games
 Dominick Cafferillo.| [dcaffer07](https://github.com/dcaffer07) | I play Baseball :baseball:
 Connor D. | [Connor- Davis](https://github.com/Connor-Davis) | i want to explore the uneverse and get away from the earth :rocket:
 Robel G. | [rgabramedhin93](https://github.com/rgabramedhin93) | I like turtles
