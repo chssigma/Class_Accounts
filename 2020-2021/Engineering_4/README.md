@@ -13,13 +13,20 @@ Camden B. | [CamdenBaucom](https://github.com/CamdenBaucom) | I have a dog named
 Abby P. | [Apaquet37](https://github.com/Apaquet37) | I am a vegetarian
 Owen M. | [Omckenn37](https://github.com/omckenn37) | Liverpool is my favorite soccer team
 Kaymin H. | [Khester35](https://github.com/khester35) | I'm a writer.
+Philip B. | [Pbreen40](https://github.com/pbreen40) | I love planes!
 Tim W. |[tweissm35](https://github.com/tweissm35)| I like lemonade
 Reece M. | [Rmckee75](https://github.com/rmckee75) |I like to run fast for long distances
 Asha G. | [agupta88ccs](https://github.com/agupta88) | I like to dance. 
 Imogen A. | [Iarmstr81](https://github.com/iarmstr81) | I hate cocomut
+Zoe D. | [Zdeguzm53](https://github.com/zdeguzm53) | I like swimming
 Elisabeth S. |[escharf72](https://github.com/escharf72) | I play the viola :violin: 
+Olivia P. |[opember44](https://github.com/opember44) | I play soccer.
 Meg G. |[mgist56](https://github.com/mgist56) | I play the flute and I love dragons! :dragon_face:
 Lukas H. |[lhange42](https://github.com/lhange42) | I like football
 Katherine M.  |[kmcgrat28](https://github.com/kmcgrat28) | I like Turtles
 Piper G. |[pguiffr62](https://github.com/pguiffr62) | Max helped me do this assignment and I do art
 Luuk S. | [lspence40](https://github.com/lspence40) | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Seanan S. | [sshanks49](https://github.com/sshanks49) | I have a black belt
+Aiden L. | [Alewand78](https://github.com/alewand78) | I like to play lacrosse.
+Lucas M. | [lmiller87](https://github.com/lmiller87) | I like soccer
+Corin S. | [cstours08](https://github.com/cstours08) | I like Mountain biking
