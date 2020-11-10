@@ -7,6 +7,7 @@ Name | Username | Fun Fact
 --- | --- | ---
 Nicole A. | [NikyA777](https://github.com/NikyA777) | I know more than you realize!
 Evan C.|[ecann07](https://github.com/ecann07)| I like riding my bike 
+Henry C. | [hcoyle91](https://github.com/hcoyle91) | I relied on Mr H to make this link
 Alden D. | [adent11](https://github.com/adent11) | I have held my breath for over 3:00
 Lucas F. | [lfuller20](https://github.com/lfuller20) | I love playing soccer :soccer:
 Dylan H. | [OstrichIsYum](https://github.com/OstrichIsYum) | I like Prison art...¯\_(ツ)_/¯ 
