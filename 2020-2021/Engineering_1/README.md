@@ -37,6 +37,7 @@ Dylan T. | [dtracy50](https://github.com/dtracy50) | I have a dog
 ## Period 7
 Name | Username | Fun Fact
 --- | --- | ---
+
 Holden A. | [Haustin71](https://github.com/haustin71) | I freeze up when asked stupid personal questions.
 Jabari B. | [Jbright91](https://github.com/Jbright91) | I play Games
 Dominick Cafferillo.| [dcaffer07](https://github.com/dcaffer07) | I play Baseball :baseball:
@@ -51,4 +52,5 @@ Joe M | [jmyhre21](https://github.com/jmyhre21) | I have simpsons shoes
 Sethaun N. | [Snowell99](https://github.com/snowell99) | I have a baby Guinea Pig 
 Chris P.| [Chris-Procino](https://github.com/Chris-Procino) | will build a rocket and steal the moon :rocket:
 Charlie S. | [charliesisson](https://github.com/charliesisson) | I have simpson socks
+Wes S. | [Wswanso44](https://github.com/wswanso44) | I like running/hiking
 
