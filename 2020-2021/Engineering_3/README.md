@@ -19,7 +19,9 @@ Owen L. | [olindsa32](https://github.com/olindsa32) | I still haven't submitted 
 Sean L. | [BigSean](https://github.com/slynch66) | I like playing football :football:
 Ari M.  | [amilste16](https://github.com/amilste16) | I have a frog collection :frog:
 Hank P. | [hdpow](https://github.com/hdpow) | I like video games :video_game:
+Georgia W. | [gwyatt40](https://github.com/gwyatt40) | I am scared of bugs 
 Angus M.| [amunro93](https://github.com/amunro93)| I like basketball :basketball 
+
 
 ## 3rd Period - Dr. Shields
 Name | Username | Fun Fact
