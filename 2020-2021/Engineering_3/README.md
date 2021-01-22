@@ -13,6 +13,7 @@ Lucas F. | [lfuller20](https://github.com/lfuller20) | I love playing soccer :so
 Dylan H. | [OstrichIsYum](https://github.com/OstrichIsYum) | I like Prison art...¯\_(ツ)_/¯ 
 Isaac H. |[IsaacHuaypuna](https://github.com/isaacHuaypuna) | I like playing video games
 Bob K. |[jkammau97](https://github.com/jkammau97)| I have a tendency to overcomplicate things...XD
+Scoot J. | [mbjones73](https://github.com/mbjones73) | I like basketball
 Will K | [willhk10](https://github.com/willhk10) | I like swimming :)
 Loren L. | [llemarr42](https://github.com/llemarr42) | I like playing board games
 Owen L. | [olindsa32](https://github.com/olindsa32) | I still haven't submitted my pull request, so Mr. H made it for me...
