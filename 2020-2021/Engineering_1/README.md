@@ -37,7 +37,6 @@ Dylan T. | [dtracy50](https://github.com/dtracy50) | I have a dog
 ## Period 7
 Name | Username | Fun Fact
 --- | --- | ---
-
 Holden A. | [Haustin71](https://github.com/haustin71) | I freeze up when asked stupid personal questions.
 Jabari B. | [Jbright91](https://github.com/Jbright91) | I play Games
 Dominick Cafferillo.| [dcaffer07](https://github.com/dcaffer07) | I play Baseball :baseball:
