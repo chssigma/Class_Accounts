@@ -15,7 +15,7 @@ Name | Username | Fun Fact
 ## Period 6
 Name | Username | Fun Fact
 --- | --- | ---
-Marco A. | [mlopezs05](https://github.com/gbiller01) | I like to cook.
+Marco A. | [mlopezs05](https://github.com/mlopezs05) | I like to cook.
 Julian A. | [janders95](https://github.com/Janders95) | I don't like steak
 Gunnar B. | [gbiller01](https://github.com/gbiller01) |I like cars.
 Jahiem D | [jdillar78](https://github.com/jdillar78) | I like commentating
