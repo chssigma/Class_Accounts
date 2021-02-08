@@ -40,7 +40,7 @@ Name | Username | Fun Fact
 Holden A. | [Haustin71](https://github.com/haustin71) | I freeze up when asked stupid personal questions.
 Jabari B. | [Jbright91](https://github.com/Jbright91) | I play Games
 Dominick Cafferillo.| [dcaffer07](https://github.com/dcaffer07) | I play Baseball :baseball:
-Connor D. | [Connor- Davis](https://github.com/Connor-Davis) | i want to explore the uneverse and get away from the earth :rocket:
+Connor D. | [Connor- Davis](https://github.com/cdavisai) | i want to explore the uneverse and get away from the earth :rocket:
 Robel G. | [rgabramedhin93](https://github.com/rgabramedhin93) | I like turtles
 Sahana G. | [sgupta70](https://github.com/sgupta70) | I do gymnastics 
 Lulu J. | [ljennin23](https://github.com/ljennin23) | I broke my arm in kindergarten
