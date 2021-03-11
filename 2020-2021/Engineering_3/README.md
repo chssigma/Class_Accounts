@@ -20,7 +20,7 @@ Owen L. | [olindsa32](https://github.com/olindsa32) | I still haven't submitted 
 Sean L. | [BigSean](https://github.com/slynch66) | I like playing football :football:
 Ari M.  | [amilste16](https://github.com/amilste16) | I have a frog collection :frog:
 Angus M. | [amunro](https://github.com/amunro93) | I depend on the amazing Mr. Helmstetter to make my github links for me...
-Hank P. | [hdpow](https://github.com/hdpow) | I like video games :video_game:
+Hank P. | [hpowers82](https://github.com/hpowers82) | I like video games :video_game:
 Nicholas T. | [ntaylor32](https://github.com/ntaylor32) | I like Gardening, and being self reliant.
 Georgia W. | [gwyatt40](https://github.com/gwyatt40) | I am scared of bugs 
 Angus M.| [amunro93](https://github.com/amunro93)| I like basketball :basketball 
