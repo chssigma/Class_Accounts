@@ -12,7 +12,7 @@ Karl H. | [Helmstk1](https://github.com/Helmstk1) | I once slapped an alligator 
 ## 2nd Period - Mr. Helmstetter
 Name | Username | Fun Fact
 --- | --- | ---
-Max T. |[mtimmin65](https://github.com/mtimmin65) | im maxwell alistair clarke timmins
+Max T. |[mtimmin65](https://github.com/maxtimmins) | im maxwell alistair clarke timmins
 Rafael A. |[rareval48](https://github.com/rareval48) | I dont like pizza
 Jai A. | [jaust80](https://github.com/jaust80) | I have 6 pets
 Reece Hagy | [rhagy82](https://github.com/rhagy82) | I like to play basketball 
