@@ -30,3 +30,4 @@ Seanan S. | [sshanks49](https://github.com/sshanks49) | I have a black belt
 Aiden L. | [Alewand78](https://github.com/alewand78) | I like to play lacrosse.
 Lucas M. | [lmiller87](https://github.com/lmiller87) | I like soccer
 Corin S. | [cstours08](https://github.com/cstours08) | I like Mountain biking
+Caden T. | [ctucker02](https://github.com/ctucker02) | I like sports and outdoor activities. 
