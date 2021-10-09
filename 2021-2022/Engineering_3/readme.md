@@ -6,6 +6,7 @@ Add your name (first name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [helmstk1](https://github.com/helmstk1) | I used to live in Hawaii :palm_tree:
+Henry H | [hheisig51](https://github.com/hheisig51) | I'm a BSA scout of almost 5 years :small_red_triangle:
 
 
 
