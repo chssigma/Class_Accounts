@@ -31,5 +31,8 @@ Karl H. | [helmstk1](https://github.com/helmstk1) | I bet you all want to know [
 Spencer C | [Scrusse](https://github.com/Scrusse) | No one cares about your emojis Mr. Helmstetter.
 Nikko J | [njackso48](https://github.com/njackso48) | Covid f&cking sucks
 Jamil M | [jamilmccollough](https://github.com/jamilmccollough) | I am a fatherless child.
+Paul S | [pschake34](https://github.com/pschake34) | ^ Same
+Aidan S | [Ashanks70](https://github.com/Ashanks70)| Cats are the best animal.
+
 
 
