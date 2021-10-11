@@ -39,6 +39,8 @@ Nathaniel | [nmckee78](https://github.com/nmckee78) | Cats are certainly not the
 Paul S | [pschake34](https://github.com/pschake34) | ^ Same
 Aidan S | [Ashanks70](https://github.com/Ashanks70)| Cats are the best animal.
 Thomas S | [tslingl25](https://github.com/tslingl25)| its jif not gif
+Elias Z | [ezell38](https://github.com/ezell38)| I'm better than Ezhar at soccer
 maxwell T | [mtimmin65](https://github.com/mtimmin65)| corona virus more like the bud light virus
 Ezhar Z |  [ezahid82](https://github.com/ezahid82) | his (Jay Conklin) name is CATBOY + hello smart person... hello Mr.Helms. ... srry...
+
 
