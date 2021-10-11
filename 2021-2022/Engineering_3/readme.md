@@ -12,6 +12,7 @@ Devon J | [devon128](https://github.com/devon128) | I want to work with Lebron J
 Josie M | [jmuss07](https://github.com/jmuss07) | Embrace the meats!  We have the Chaos!  
 Shrey P | [shrey45](https://github.com/shrey45) | I wanna go to the Bahamas 🛳️
 Benjamin W | [bwright70](https://github.com/bwright70) | F 
+Aidan Y | [ayates67](https://github.com/ayates67) | I was born in Boston
 
 
 
