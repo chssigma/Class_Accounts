@@ -29,6 +29,7 @@ Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [helmstk1](https://github.com/helmstk1) | I bet you all want to know [where I keep finding these cool emojis](https://github.com/ikatyang/emoji-cheat-sheet) :mechanical_arm:
 Spencer C | [Scrusse](https://github.com/Scrusse) | No one cares about your emojis Mr. Helmstetter.
+Lucy G | [lgray52](https://github.lgray52) | The Silmarillion is basically unreadable but Morgoth is fun so here we are
 Nikko J | [njackso48](https://github.com/njackso48) | Covid f&cking sucks
 Jamil M | [jamilmccollough](https://github.com/jamilmccollough) | I am a fatherless child.
 Paul S | [pschake34](https://github.com/pschake34) | ^ Same
