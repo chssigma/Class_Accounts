@@ -39,5 +39,5 @@ Paul S | [pschake34](https://github.com/pschake34) | ^ Same
 Aidan S | [Ashanks70](https://github.com/Ashanks70)| Cats are the best animal.
 Thomas S | [tslingl25](https://github.com/tslingl25)| its jif not gif
 
-
+Elias Z | [ezell38](https://github.com/ezell38)| I'm better than Ezhar at soccer
 
