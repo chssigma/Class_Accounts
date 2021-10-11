@@ -8,6 +8,7 @@ Name | Username | Fun Fact
 Karl H. | [helmstk1](https://github.com/helmstk1) | I used to live in Hawaii :palm_tree:
 Jai A   | [jaust80](https://github.com/jaust80) 
 Henry H | [hheisig51](https://github.com/hheisig51) | I'm a BSA scout of almost 5 years :small_red_triangle:
+Benton H | [Jhouse53](https://github.com/jhouse53) | I want to live in New Zealand
 Devon J | [devon128](https://github.com/devon128) | I want to work with Lebron James :heavy_dollar_sign:
 Josie M | [jmuss07](https://github.com/jmuss07) | Embrace the meats!  We have the Chaos!  
 Shrey P | [shrey45](https://github.com/shrey45) | I wanna go to the Bahamas 🛳️
