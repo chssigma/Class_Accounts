@@ -10,6 +10,7 @@ Jai A   | [jaust80](https://github.com/jaust80)
 Henry H | [hheisig51](https://github.com/hheisig51) | I'm a BSA scout of almost 5 years :small_red_triangle:
 Devon J | [devon128](https://github.com/devon128) | I want to work with Lebron James :heavy_dollar_sign:
 Shrey P | [shrey45](https://github.com/shrey45) | I wanna go to the Bahamas 🛳️
+Ngawang T  | [Ntenzin66](https://github.com/Ntenzin66) | I want to slap Jai
 
 
 
