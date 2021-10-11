@@ -34,8 +34,9 @@ Spencer C | [Scrusse](https://github.com/Scrusse) | No one cares about your emoj
 Gaby D |  [gdaless20](https://github.com/gdaless20) | im a solid 6'4"
 Lucy G | [lgray52](https://github.com/lgray52) | The Silmarillion is basically unreadable but Morgoth is fun so here we are
 Nikko J | [njackso48](https://github.com/njackso48) | Covid f&cking sucks
+Luka M  |  [luka-ma](https://github.com/luka-ma) | I play basketball
 Jamil M | [jamilmccollough](https://github.com/jamilmccollough) | I am a fatherless child.
-Nathaniel | [nmckee78](https://github.com/nmckee78) | Cats are certainly not the best animal.
+Nathaniel M | [nmckee78](https://github.com/nmckee78) | Cats are certainly not the best animal. 
 Paul S | [pschake34](https://github.com/pschake34) | ^ Same
 Aidan S | [Ashanks70](https://github.com/Ashanks70)| Cats are the best animal.
 Thomas S | [tslingl25](https://github.com/tslingl25)| its jif not gif
