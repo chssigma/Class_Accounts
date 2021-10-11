@@ -37,6 +37,7 @@ Jamil M | [jamilmccollough](https://github.com/jamilmccollough) | I am a fatherl
 Nathaniel | [nmckee78](https://github.com/nmckee78) | Cats are certainly not the best animal.
 Paul S | [pschake34](https://github.com/pschake34) | ^ Same
 Aidan S | [Ashanks70](https://github.com/Ashanks70)| Cats are the best animal.
+Thomas S | [tslingl25](https://github.com/tslingl25)| its jif not gif
 
 
 
