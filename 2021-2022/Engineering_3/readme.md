@@ -28,6 +28,7 @@ Karl H. | [helmstk1](https://github.com/helmstk1) | I have more children than Sa
 Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [helmstk1](https://github.com/helmstk1) | I bet you all want to know [where I keep finding these cool emojis](https://github.com/ikatyang/emoji-cheat-sheet) :mechanical_arm:
+Nick C | [Cowboys4life](https://github.com/Cowboys4life) | Cowboys are the best football team in the NFL
 Jay C | [jconkli07](https://github.com/jconkli07) | i have dog
 Spencer C | [Scrusse](https://github.com/Scrusse) | No one cares about your emojis Mr. Helmstetter.
 Gaby D |  [gdaless20](https://github.com/gdaless20) | im a solid 6'4"
@@ -38,6 +39,8 @@ Nathaniel | [nmckee78](https://github.com/nmckee78) | Cats are certainly not the
 Paul S | [pschake34](https://github.com/pschake34) | ^ Same
 Aidan S | [Ashanks70](https://github.com/Ashanks70)| Cats are the best animal.
 Thomas S | [tslingl25](https://github.com/tslingl25)| its jif not gif
-
 Elias Z | [ezell38](https://github.com/ezell38)| I'm better than Ezhar at soccer
+maxwell T | [mtimmin65](https://github.com/mtimmin65)| corona virus more like the bud light virus
+Ezhar Z |  [ezahid82](https://github.com/ezahid82) | his (Jay Conklin) name is CATBOY + hello smart person... hello Mr.Helms. ... srry...
+
 
