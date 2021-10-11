@@ -28,6 +28,7 @@ Karl H. | [helmstk1](https://github.com/helmstk1) | I have more children than Sa
 Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [helmstk1](https://github.com/helmstk1) | I bet you all want to know [where I keep finding these cool emojis](https://github.com/ikatyang/emoji-cheat-sheet) :mechanical_arm:
+Jay C | [jconkli07](https://github.com/jconkli07) | i have dog
 Spencer C | [Scrusse](https://github.com/Scrusse) | No one cares about your emojis Mr. Helmstetter.
 Gaby D |  [gdaless20](https://github.com/gdaless20) | im a solid 6'4"
 Lucy G | [lgray52](https://github.com/lgray52) | The Silmarillion is basically unreadable but Morgoth is fun so here we are
