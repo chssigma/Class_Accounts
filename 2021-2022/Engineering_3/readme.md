@@ -27,6 +27,7 @@ Logan Martin | [Logan-Martin](https://github.com/Logan-Martin) | I like chocolat
 Logan McMindes. | [lmcmind85](https://github.com/lmcmind85) | I wrestle 
 Anthony M. | [AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love soccer
 Cole N. | [cneal05](https://github.com/cneal05) | I know kung fu
+Malachi P. | [mpascha61](https://github.com/mpascha61) | I don't like peppermint.
 Callan S. | [Csmith29](https://github.com/Csmith29) | I don't know kung fu
 
 
