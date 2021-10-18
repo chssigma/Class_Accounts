@@ -30,7 +30,7 @@ Anthony M. | [AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love 
 Cole N. | [cneal05](https://github.com/cneal05) | I know kung fu
 Malachi P. | [mpascha61](https://github.com/mpascha61) | I don't like peppermint.
 Callan S. | [Csmith29](https://github.com/Csmith29) | I don't know kung fu
-Finn W. | [Csmith29](https://github.com/Csmith29) | I don't know kung fu
+Finn W. | [fwimber35](https://github.com/fwimber35) | I find oatmeal to be exhilarating
 
 
 
