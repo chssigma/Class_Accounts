@@ -14,3 +14,5 @@ Name | Username | Fun Fact
 --- | --- | ---
 Matt S. | [DoctorShields](https://github.com/DoctorShields) | I like soccer :soccer:
 
+## 4th Period - Mr. Miller
+Name | Username | Fun Fact
