@@ -24,6 +24,8 @@ Karl H. | [helmstk1](https://github.com/helmstk1) | I have more children than Sa
 Rafael A. | [rareval48](https://github.com/rareval48) |  I dont like pizza
 Logan Martin | [Logan-Martin](https://github.com/Logan-Martin) | I like chocolate milk.
 Cole N. | [cneal05](https://github.com/cneal05) | I know kung fu
+Callan S. | [Csmith29](https://github.com/Csmith29) | I don't know kung fu
+
 
 
 
