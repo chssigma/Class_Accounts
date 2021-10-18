@@ -32,6 +32,7 @@ Malachi P. | [mpascha61](https://github.com/mpascha61) | I don't like peppermint
 Quinn R. | [qragsda80](https://github.com/qragsda80) | I play 4 sports, simultaneously, in my sleep.
 Mariam S. | [msadat50](https://github.com/msadat50) | like playing soccer, watch anime, drawing and reading books.
 Callan S. | [Csmith29](https://github.com/Csmith29) | I don't know kung fu
+Graham S. | [Graham913](https://github.com/Graham913) | I dont own an iguana 
 Finn W. | [fwimber35](https://github.com/fwimber35) | I find oatmeal to be exhilarating
 
 
