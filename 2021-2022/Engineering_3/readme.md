@@ -26,7 +26,7 @@ Logan Martin | [Logan-Martin](https://github.com/Logan-Martin) | I like chocolat
 Logan McMindes. | [lmcmind85](https://github.com/lmcmind85) | I wrestle 
 Cole N. | [cneal05](https://github.com/cneal05) | I know kung fu
 Callan S. | [Csmith29](https://github.com/Csmith29) | I don't know kung fu
-
+Elliott Greenwell | [egreenw99](https://github.com/egreenw99) | I wish I knew kung fu
 
 
 
