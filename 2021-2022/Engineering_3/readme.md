@@ -22,6 +22,7 @@ Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [helmstk1](https://github.com/helmstk1) | I have more children than Sanity PeRmiTs :nerd_face:
 Rafael A. | [rareval48](https://github.com/rareval48) |  I dont like pizza
+Logan Martin | [Logan-Martin](https://github.com/Logan-Martin) | I like chocolate milk.
 Cole N. | [cneal05](https://github.com/cneal05) | I know kung fu
 
 
