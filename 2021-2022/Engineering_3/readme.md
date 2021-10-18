@@ -27,7 +27,7 @@ Logan McMindes. | [lmcmind85](https://github.com/lmcmind85) | I wrestle
 Anthony M. | [AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love soccer
 Cole N. | [cneal05](https://github.com/cneal05) | I know kung fu
 Callan S. | [Csmith29](https://github.com/Csmith29) | I don't know kung fu
-
+Elliott Greenwell | [egreenw99](https://github.com/egreenw99) | I wish I knew kung fu
 
 
 
