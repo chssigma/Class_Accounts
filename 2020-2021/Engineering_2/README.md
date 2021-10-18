@@ -19,7 +19,7 @@ Eh hso | [ether63](https://github.com/ether63) | I like  to play soccer:
 Nasir L. |[nlindsa81](https://github.com/nlindsa81) | My nickname is Nas
 Luka M.|[luka-ma](https://github.com/luka-ma) | Im very tall 
 Logan McMindes. | [lmcmind85](https://github.com/lmcmind85) | I wrestle 
-Logan Martin | [Logan-Martin](https://github.com/Reditect-Logan-Martin) | I like rice
+Logan Martin | [Logan-Martin](https://github.com/Logan-Martin) | I like chocolate milk.
 Anthony M. | [AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love soccer
 Josie M. | [jmuss07](https://github.com/jmuss07) | Hahahaha imagine having a fun fact (I have a pet frog)
 Ian N. | [inovotn04](https://github.com/inovotn04) | My initials spell my name
