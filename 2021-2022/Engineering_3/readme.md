@@ -29,6 +29,7 @@ Logan McMindes. | [lmcmind85](https://github.com/lmcmind85) | I wrestle
 Anthony M. | [AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love soccer
 Cole N. | [cneal05](https://github.com/cneal05) | I know kung fu
 Malachi P. | [mpascha61](https://github.com/mpascha61) | I don't like peppermint.
+Quinn R. | [qragsda80](https://github.com/qragsda80) | I play 4 sports, simultaneously, in my sleep.
 Mariam S. | [msadat50](https://github.com/msadat50) | like playing soccer, watch anime, drawing and reading books.
 Callan S. | [Csmith29](https://github.com/Csmith29) | I don't know kung fu
 Finn W. | [fwimber35](https://github.com/fwimber35) | I find oatmeal to be exhilarating
