@@ -21,7 +21,7 @@ Aidan Y | [ayates67](https://github.com/ayates67) | I was born in Boston
 Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [helmstk1](https://github.com/helmstk1) | I have more children than Sanity PeRmiTs :nerd_face:
-
+Rafael A. | [rareval48](https://github.com/rareval48) |  I dont like pizza
 
 
 ## 7th Period - Mr. Helmstetter
