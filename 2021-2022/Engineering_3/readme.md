@@ -23,6 +23,7 @@ Name | Username | Fun Fact
 Karl H. | [helmstk1](https://github.com/helmstk1) | I have more children than Sanity PeRmiTs :nerd_face:
 Rafael A. | [rareval48](https://github.com/rareval48) |  I dont like pizza
 Elliott G | [egreenw99](https://github.com/egreenw99) | I do like pizza
+Johnny K. | [jkrosby51](https://github.com/jkrosby51) | I have one cat and one dog.
 Logan Martin | [Logan-Martin](https://github.com/Logan-Martin) | I like chocolate milk.
 Logan McMindes. | [lmcmind85](https://github.com/lmcmind85) | I wrestle 
 Anthony M. | [AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love soccer
