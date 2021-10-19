@@ -11,5 +11,5 @@ Matt M. | [Millerm22](https://github.com/Millerm22) | I used to crash cars for a
 Name | Username | Fun Fact
 --- | --- | ---
 Matt M. | [Millerm22](https://github.com/Millerm22) | I'm a good CADder and a terrible coder. 
-Angus M.| [amunro93](https://github.com/amunro93) | I like soccer ⚽: 
+Angus M.| [amunro93](https://github.com/amunro93) | I like soccer ⚽
 Max T. | [mtyree18](https://github.com/mtyree18) | I like nature :palm_tree:
