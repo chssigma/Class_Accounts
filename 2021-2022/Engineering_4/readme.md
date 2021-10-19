@@ -13,3 +13,4 @@ Name | Username | Fun Fact
 Matt M. | [Millerm22](https://github.com/Millerm22) | I'm a good CADder and a terrible coder. 
 Angus M.| [amunro93](https://github.com/amunro93) | I like soccer ⚽: 
 Max T. | [mtyree18](https://github.com/mtyree18) | I like nature :palm_tree:
+Alden D. | [adent11](https://github.com/adent11) | I've held my breath for over 3 minutes
