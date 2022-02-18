@@ -7,7 +7,7 @@ Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [helmstk1](https://github.com/helmstk1) | I used to live in Hawaii :palm_tree:
 Jai A   | [jaust80](https://github.com/jaust80) | I do not have an interesting fact :sad_face:
-Henry H | [hheisig51](https://github.com/hheisig51) | I'm a BSA scout of almost 5 years :small_red_triangle:
+Henry H | [hheisig51](https://github.com/hheisig51) | I'm a BSA scout of almost 5 years 🔺
 Benton H | [Jhouse53](https://github.com/jhouse53) | I want to live in New Zealand
 Devon J | [devon128](https://github.com/devon128) | I want to work with Lebron James :heavy_dollar_sign:
 Josie M | [jmuss07](https://github.com/jmuss07) | Embrace the meats!  We have the Chaos!  
@@ -22,11 +22,13 @@ Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [helmstk1](https://github.com/helmstk1) | I have more children than Sanity PeRmiTs :nerd_face:
 Rafael A. | [rareval48](https://github.com/rareval48) |  I dont like pizza
+Andrew D. | [Adicesa05](https://github.com/Adicesa05) | I can solve a rubik's cube while drinking Arizona tea.
 Elliott G | [egreenw99](https://github.com/egreenw99) | I do like pizza
 Johnny K. | [jkrosby51](https://github.com/jkrosby51) | I have one cat and one dog.
 Logan Martin | [Logan-Martin](https://github.com/Logan-Martin) | I like chocolate milk.
 Logan McMindes. | [lmcmind85](https://github.com/lmcmind85) | I wrestle 
 Anthony M. | [AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love soccer
+Tariq M. | [tmukhli](https://github.com/tmukhli) | I love playing PUBG!
 Cole N. | [cneal05](https://github.com/cneal05) | I know kung fu
 Malachi P. | [mpascha61](https://github.com/mpascha61) | I don't like peppermint.
 Quinn R. | [qragsda80](https://github.com/qragsda80) | I play 4 sports, simultaneously, in my sleep.
