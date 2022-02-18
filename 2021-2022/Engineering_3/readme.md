@@ -28,6 +28,7 @@ Johnny K. | [jkrosby51](https://github.com/jkrosby51) | I have one cat and one d
 Logan Martin | [Logan-Martin](https://github.com/Logan-Martin) | I like chocolate milk.
 Logan McMindes. | [lmcmind85](https://github.com/lmcmind85) | I wrestle 
 Anthony M. | [AnthonyMedina3654](https://github.com/AnthonyMedina3654) | I love soccer
+Tariq M. | [tmukhli](https://github.com/tmukhli) | I love playing PUBG!
 Cole N. | [cneal05](https://github.com/cneal05) | I know kung fu
 Malachi P. | [mpascha61](https://github.com/mpascha61) | I don't like peppermint.
 Quinn R. | [qragsda80](https://github.com/qragsda80) | I play 4 sports, simultaneously, in my sleep.
