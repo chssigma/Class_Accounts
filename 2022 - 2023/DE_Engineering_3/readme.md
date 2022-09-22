@@ -6,8 +6,7 @@ Add your name (first name, last initial), github username (with a link), and a f
 Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [helmstk1](https://github.com/helmstk1) | I used to live in Hawaii :palm_tree:
-Josiah Patterson | [jpatter43](jpatter43@charlottesvilleschools.org) | I've never been to popeyes
-
+Josiah Patterson | [jpatter43](https://github.com/jpatter43?tab=repositories) | I've never been to popeyes
 ## 3rd Period - Mr. Helmstetter
 Name | Username | Fun Fact
 --- | --- | ---
