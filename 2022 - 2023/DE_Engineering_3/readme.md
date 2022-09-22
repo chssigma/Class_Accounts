@@ -7,6 +7,7 @@ Name | Username | Fun Fact
 --- | --- | ---
 Karl H. | [helmstk1](https://github.com/helmstk1) | I used to live in Hawaii :palm_tree:
 Josiah Patterson | [jpatter43](https://github.com/jpatter43?tab=repositories) | I've never been to popeyes
+
 ## 3rd Period - Mr. Helmstetter
 Name | Username | Fun Fact
 --- | --- | ---
