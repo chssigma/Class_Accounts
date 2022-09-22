@@ -17,8 +17,8 @@ Cooper Moreland | [wmorela54](https://github.com/Cooper-Moreland/CircuitPython.g
 Josiah Patterson | [jpatter43](https://github.com/jpatter43?tab=repositories) | I've never been to popeyes
 klei  | [kstanfo00](https://github.com/kstanfo00?tab=repositories) | I take engineering.
 Afton | [avanhoo2498](https://github.com/Avanhoo?tab=repositories) | I do gymnastics.
-jayden vaughan | [jvaugha3038](https://github.com/jvaugha3038?tab=repositories) | im terrible at chess
-Jakakob | [Jweder06](https://github.com/Jweder06/circuitpython-) | I played JV soccer last year.
+Jayden vaughan | [jvaugha3038](https://github.com/jvaugha3038?tab=repositories) | im terrible at chess
+Jakob W | [Jakakob](https://github.com/Jweder06/circuitpython-) | I played JV soccer last year.
 Matthias Zimmerman | [mzimmer77](https://github.com/mzimmer77?tab=repositories) | I play soccer
 
 ## 3rd Period - Mr. Helmstetter
