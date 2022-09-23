@@ -29,9 +29,11 @@ Karl H. | [helmstk1](https://github.com/helmstk1) | I have more ChIlDrEn tHaN Sa
 Matt B | [mburns2192](https://github.com/Mburns2192/CircuitPython) | I play football,baseball and I’ve lived in Virginia my entire life 
 Will Barnett  | [wbarnett](https://github.com/wbarnet76/circuitpythone) | I used to live in ct
 Matthew Colvin | [mcolvin35](https://github.com/mcolvin35/circuit-python) | I was born in Tennessee
-"Dylan Halbert  | [dhalber11](https://github.com/dhalber11/CircuitPython.git) | I have lived in charlottesville my entire life,I am a swimmer I used to have chickens until they all died recently
+Mohammad H| [mhaidar70](https://github.com/mhaidar70?tab=repositories) | I am a martial artist. 
+Dylan Halbert  | [dhalber11](https://github.com/dhalber11/CircuitPython.git) | I have lived in charlottesville my entire life,I am a swimmer I used to have chickens until they all died recently
 Vinnie J| [vjones2906](https://github.com/vjones2906?tab=repositories) | I was born in NYC
-River L | [lewisguy00@gmail.com](https://github.com/rivques/circuitpython) | I take commissions from YouTubers for Rocket League plug-ins.
+Atticus Lauter | [alauter30](https://github.com/alauter30?tab=repositories) | yes
+River L | [rivques](https://github.com/rivques/circuitpython) | I take commissions from YouTubers for Rocket League plug-ins.
 Franklin Llenas | [fllenas85](https://github.com/fllenas85/FirstTest) | Kanye West is my favorite rapper 
 Jinho P | [Jpark12](https://github.com/Jpark27614/CircuitPython) | I have a dog
 Lucia Whitmore | [lwhitmo03](https://github.com/lwhitmo?tab=repositories) | i play jazz
