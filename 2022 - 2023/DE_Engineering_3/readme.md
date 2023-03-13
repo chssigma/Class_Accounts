@@ -29,6 +29,7 @@ Karl H. | [helmstk1](https://github.com/helmstk1) | I have more ChIlDrEn tHaN Sa
 Matt B | [mburns2192](https://github.com/Mburns2192/CircuitPython) | I play football,baseball and I’ve lived in Virginia my entire life 
 Will Barnett  | [wbarnett](https://github.com/wbarnet76/circuitpythone) | I used to live in ct
 Matthew Colvin | [mcolvin35](https://github.com/mcolvin35/circuit-python) | I was born in Tennessee
+Hazel Conklin | [honklin](https://github.com/honklin/) | I'm on a boat.
 Mohammad H| [mhaidar70](https://github.com/mhaidar70?tab=repositories) | I am a martial artist. 
 Dylan Halbert  | [dhalber11](https://github.com/dhalber11/CircuitPython.git) | I have lived in charlottesville my entire life,I am a swimmer I used to have chickens until they all died recently
 Vinnie J| [vjones2906](https://github.com/vjones2906?tab=repositories) | I was born in NYC
