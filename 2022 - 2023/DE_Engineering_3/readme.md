@@ -14,7 +14,7 @@ Robel G | [rgabram93](https://github.com/rgabramedhin93?tab=repositories) | I pl
 Elias Garcia | [egarcia28](https://github.com/egarcia28/CircuitPython) | Mr. H says I'm a typical contrarian highschooler, and refuse to admit even the slightest interesting thing about myself.
 Grant Gastinger | [ggastin30](https://github.com/ggastin30/CPython) | I'm pescatarian.
 Jack Helmke | [jackhelmke45](https://github.com/jhelmke45/CircuitPython) | I run for CHS in all 3 sports seasons
-Cooper Moreland | [wmorela54](https://github.com/Cooper-Moreland/CircuitPython.git) | I play soccer
+Cooper Moreland | [wmorela54](https://github.com/Cooper-Moreland/EngNotebook3) | I play soccer
 Josiah Patterson | [jpatter43](https://github.com/jpatter43?tab=repositories) | I've never been to popeyes
 klei  | [kstanfo00](https://github.com/kstanfo00?tab=repositories) | I take engineering.
 Afton | [avanhoo2498](https://github.com/Avanhoo?tab=repositories) | I do gymnastics.
