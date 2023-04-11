@@ -10,7 +10,7 @@ Evan C.|[ecann07](https://github.com/ecann07)| I like riding my bike
 Henry C. | [hcoyle91](https://github.com/hcoyle91) | I relied on Mr H to make this link
 Alden D. | [adent11](https://github.com/adent11) | I have held my breath for over 3:00
 Lucas F. | [lfuller20](https://github.com/lfuller20) | I love playing soccer :soccer:
-Dylan H. | [OstrichIsYum](https://github.com/OstrichIsYum) | I like Prison art...¯\_(ツ)_/¯ 
+Dylan H. | [OstrichIsYum](https://github.com/DylnH) | I like Prison art...¯\_(ツ)_/¯ 
 Isaac H. |[IsaacHuaypuna](https://github.com/isaacHuaypuna) | I like playing video games
 Bob K. |[jkammau97](https://github.com/jkammau97)| I have a tendency to overcomplicate things...XD
 Scoot J. | [mbjones73](https://github.com/mbjones73) | I like basketball
