@@ -9,7 +9,7 @@ Karl H. | [helmstk1](https://github.com/helmstk1) | I used to live in Hawaii :pa
 holden A| [haustin71](https://github.com/haustin71?tab=repositories) | I've broken my wrist in the same spot twice.
 Jabari Bright | [jbright91](https://github.com/jbright91/CircuitPython) | I like video games
 Mason Divers | [mdivers67](https://github.com/MasonD552) | I have played baseball since I was 4. I have 2 dogs.
-Ryan F. | [](https://github.com/rfranck89/CircuitPython) | My cool thing is too cool to have here, so Mr H moved it [here](https://docs.google.com/spreadsheets/d/1Jn0Fxh5ePfnUjrnbjAwtEVyjhfd7f7Z6N0Z7KEDHAzA/edit?usp=sharing) 
+Ryan F. | [rfrank89](https://github.com/rfranck89/CircuitPython) | My cool thing is too cool to have here, so Mr H moved it [here](https://docs.google.com/spreadsheets/d/1Jn0Fxh5ePfnUjrnbjAwtEVyjhfd7f7Z6N0Z7KEDHAzA/edit?usp=sharing) 
 Robel G | [rgabram93](https://github.com/rgabramedhin93?tab=repositories) | I play soccer, I've been to Ethiopia, & I have 5 siblings (all younger)
 Elias Garcia | [egarcia28](https://github.com/egarcia28/CircuitPython) | Mr. H says I'm a typical contrarian highschooler, and refuse to admit even the slightest interesting thing about myself.
 Grant Gastinger | [ggastin30](https://github.com/ggastin30/CPython) | I'm pescatarian.
