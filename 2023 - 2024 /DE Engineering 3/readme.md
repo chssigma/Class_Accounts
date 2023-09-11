@@ -31,3 +31,22 @@ Name | Fun Fact
 Name | Fun Fact
  --- | ---
 [Karl H](https://github.com/helmstk1) | I bet you all want to know [where I keep finding these cool emojis](https://github.com/ikatyang/emoji-cheat-sheet) :mechanical_arm:
+[Griffin A]() |  
+[Linwood B]() |  
+[Korine B]() |  
+[Addie B]() |  
+[Raffi C]() | 
+[Alan F-P]() | 
+[Cristofer F-P]() |
+[Leo K]() |  
+[Solomon L]() |  
+[Asher M]() |  
+[Jude M]() |  
+[Josh O]() |  
+[Benji P]() |  
+[Laila S]() |  
+[Jai W]() |  
+[Kira W]() |   
+[Leo W]() |  
+[Lucas W]() |  
+
