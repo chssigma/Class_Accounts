@@ -32,21 +32,22 @@ Name | Fun Fact
  --- | ---
 [Karl H](https://github.com/helmstk1) | I bet you all want to know [where I keep finding these cool emojis](https://github.com/ikatyang/emoji-cheat-sheet) :mechanical_arm:
 [Griffin A]() |  
-[Linwood B]() |  
-[Korine B]() |  
-[Addie B]() |  
-[Raffi C]() | 
+[Linwood B](https://github.com/lbailey58/engr3.git) |  I like playing Splatoon 3 and Magic: the gathering
+[Korine B]() |I play volleyball, basketball and run track   
+[Addie B](https://github.com/addddddy/engr3) |  I am so bereft of interesting information that it has stunted my growth.  It's called IDK disease.
+[Raffi C](https://github.com/Raffi-Chen) | My favorite song is <a href="https://www.youtube.com/watch?v=rTYbpgkTYd4">Mozart's K 533 sonata.</a>
 [Alan F-P]() | 
 [Cristofer F-P]() |
-[Leo K]() |  
+[Leo K](https://github.com/leokrahn/engr3) |  I like to make music, I was born in NYC, and I have a cat named Thumper.
 [Solomon L]() |  
-[Asher M]() |  
+[Asher M](https://github.com/amarini3722/engr3) |  I like playing tennis.
 [Jude M]() |  
-[Josh O]() |  
-[Benji P]() |  
+[Josh O](https://github.com/SempronChip/engr3) |  I'm half South African.
+[Benji P](github.com/bhenry4/engr3) |  I own several calculators.
 [Laila S]() |  
 [Jai W]() |  
-[Kira W]() |   
-[Leo W]() |  
-[Lucas W]() |  
+[Keira W](https://github.com/nwashin59/engr3) |  I'm BLACK, I love LAX, my favorite food is rice or sushi, my favorite color is blue, and lastly...wait for it.... I'm BLACK. 
+[Leo W](https://github.com/lwimber39/engr3) |  I have been to Japan
+[Lucas W](https://github.com/lwylie10/engr3/) | I will absolutely crush you at Splatoon 3.
+
 
