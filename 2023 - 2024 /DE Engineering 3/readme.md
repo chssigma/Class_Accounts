@@ -12,6 +12,7 @@ Name | Fun Fact
 [Carolina C](https://github.com/cchao2869/Engr3) | I was on Olympic Development Program National Team for soccer.
 [Lucas D](https://github.com/ldengel3718/Engr3) | I love the Dallas Cowboys
 [Alexis F](https://github.com/foxden09/ENG3) | INDIANA FOR LIFERS 
+[Mercedez G](https://forms.gle/WmhgwuSFsGnZgMAd7) | I promise I'm going to fill [that form](https://forms.gle/WmhgwuSFsGnZgMAd7) out rn!
 [Liam K](https://github.com/lkelley36/Engineering-3) |I know Kung Fu
 [Ryan K](https://github.com/rkish3721/Eng3) | I was born in LA
 [Abdou K](https://www.youtube.com/watch?v=A7IMBnMU5a4) | I also have not submitted my notebook yet! 😩
