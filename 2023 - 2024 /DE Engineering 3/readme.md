@@ -31,7 +31,7 @@ Name | Fun Fact
 Name | Fun Fact
  --- | ---
 [Karl H](https://github.com/helmstk1) | I bet you all want to know [where I keep finding these cool emojis](https://github.com/ikatyang/emoji-cheat-sheet) :mechanical_arm:
-[Griffin A]() |  
+[Griffin A](https://github.com/gashley3384/engr3) |  I have a metal plate and five screws in my left arm. 
 [Linwood B](https://github.com/lbailey58/engr3.git) |  I like playing Splatoon 3 and Magic: the gathering
 [Korine B]() |I play volleyball, basketball and run track   
 [Addie B](https://github.com/addddddy/engr3) |  I am so bereft of interesting information that it has stunted my growth.  It's called IDK disease.
